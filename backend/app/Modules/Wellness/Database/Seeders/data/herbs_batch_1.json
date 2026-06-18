@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "Carqueja",
+    "scientific_name": "Baccharis trimera",
+    "slug": "carqueja",
+    "description": "Arbusto perene nativo da América do Sul, caracterizado por hastes aladas sem folhas verdadeiras que realizam a fotossíntese. Contém lactonas sesquiterpênicas e flavonoides que conferem forte ação hepatoprotetora, digestiva e hipoglicemiante. É amplamente recomendada para desintoxicação hepática e controle da digestão lenta.",
+    "how_to_use": "• Infusão Digestiva: Adicione 1 colher de sopa de hastes de carqueja picadas em 1 xícara de água fervente. Abafe por 10 minutos, coe e beba antes das principais refeições.",
+    "bath_instructions": "• Banho de Limpeza e Fluidez: Ferva 1 litro de água. Desligue o fogo e adicione 3 colheres de sopa de carqueja seca. Abafe por 10 minutos e coe. Deixe amornar. Despeje do pescoço para baixo após o banho normal, mentalizando a dissolução de barreiras emocionais, desintoxicação mental e o restabelecimento do fluxo energético positivo.",
+    "incense_usage": "• Defumação de Purificação e Quebra de Obstáculos: Queime hastes secas de carqueja em brasa de carvão vegetal. A fumaça de aroma amargo e terroso é ideal para limpar ambientes com energias estagnadas ou densas, quebrando bloqueios que impedem o progresso e promovendo clareza espiritual.",
+    "image_path": "/images/herbs/carqueja.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico da Farmacopeia Brasileira (2ª Edição) & Manual de Fitoterapia do SUS",
+    "benefits": [
+      "digestao",
+      "diuretico",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Carqueja-Amarga, Carqueja-do-Mato, Cacália",
+    "contraindications": "Contraindicado para gestantes (risco de aborto), lactantes, diabéticos (pode causar hipoglicemia severa) e pessoas hipertensas sob medicação."
+  },
+  {
+    "name": "Boldo",
+    "scientific_name": "Peumus boldus",
+    "slug": "boldo",
+    "description": "Árvore nativa das regiões montanhosas do Chile, amplamente cultivada e utilizada em toda a América do Sul. Suas folhas contêm o alcaloide boldina e flavonoides específicos que estimulam a secreção de bile pelo fígado e a liberação pela vesícula biliar. Possui propriedades hepatoprotetoras e digestivas cientificamente consagradas para o tratamento de dispepsias e desconfortos abdominais.",
+    "how_to_use": "• Infusão Protetora: Adicione 1 colher de chá de folhas secas de boldo-do-chile em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e consuma morno logo após refeições pesadas.",
+    "bath_instructions": "• Banho de Descarrego e Purificação Fisiológica: Ferva 1,5 litros de água, desligue e adicione 5 folhas secas de boldo. Deixe abafar até atingir temperatura morna agradável e coe. Despeje lentamente sobre o corpo a partir do pescoço, mentalizando a liberação de rancores, mágoas acumuladas e impurezas físicas ou espirituais.",
+    "incense_usage": "• Defumação de Banimento de Energias Densas: Queime folhas desidratadas de boldo em carvão em brasa. A fumaça aromática forte atua desfazendo miasmas energéticos e formas-pensamento negativas acumuladas no ambiente doméstico, trazendo leveza e restauração do equilíbrio íntimo.",
+    "image_path": "/images/herbs/boldo.png",
+    "source_type": "integrative",
+    "sources": "Monografia do Boldo da Agência Europeia de Medicamentos (EMA) & Farmacopeia Homeopática Brasileira",
+    "benefits": [
+      "digestao",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Boldo-do-Chile, Boldo-Verdadeiro",
+    "contraindications": "Altamente contraindicado em caso de obstrução das vias biliares, doenças hepáticas graves, gestação (risco de má-formação e aborto) e lactação."
+  },
+  {
+    "name": "Guaco",
+    "scientific_name": "Mikania glomerata",
+    "slug": "guaco",
+    "description": "Trepadeira lenhosa nativa da Mata Atlântica brasileira, muito conhecida por suas folhas ovaladas de textura coriácea. Rica em cumarina, a planta possui ação broncodilatadora, expectorante e antiespasmódica de eficácia comprovada nas vias respiratórias. É amplamente empregada na fitoterapia para aliviar tosses persistentes, bronquites e estados gripais congestivos.",
+    "how_to_use": "• Infusão Expectorante: Coloque 1 colher de sobremesa de folhas de guaco picadas em 1 xícara de água fervente. Abafe por 10 minutos, coe e beba até 3 vezes ao dia.\n\n• Xarope Caseiro: Ferva as folhas de guaco com açúcar mascavo e água até obter ponto de xarope líquido para alívio rápido da tosse.",
+    "bath_instructions": "• Banho de Abertura e Expansão Pulmonar: Ferva 2 litros de água com 5 folhas frescas de guaco por 5 minutos. Permita amornar até uma temperatura agradável e coe. Despeje do pescoço para baixo, respirando profundamente os vapores aromáticos exalados, mentalizando a abertura de caminhos e a desobstrução de emoções reprimidas.",
+    "incense_usage": "• Defumação de Proteção e Purificação do Ar: Queime folhas secas de guaco no carvão vegetal. A fumaça adocicada rica em cumarina purifica o ar de agentes patógenos e harmoniza o campo áurico do ambiente, criando um escudo protetor contra influências externas negativas.",
+    "image_path": "/images/herbs/guaco.png",
+    "source_type": "integrative",
+    "sources": "Memento Fitoterápico da ANVISA & Relação Nacional de Medicamentos Essenciais (RENAME) do SUS",
+    "benefits": [
+      "respiratorio",
+      "expectorante",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "cansaco",
+      "ansiedade"
+    ],
+    "aliases": "Erva-de-Serpente, Cipó-Catinga, Guaco-de-Cheiro",
+    "contraindications": "Evitar o uso prolongado e por pessoas com distúrbios hemorrágicos ou que utilizam medicamentos anticoagulantes, devido à presença de cumarina."
+  },
+  {
+    "name": "Quebra-Pedra",
+    "scientific_name": "Phyllanthus niruri",
+    "slug": "quebra-pedra",
+    "description": "Pequena planta herbácea anual que cresce espontaneamente em solos úmidos e fendas de calçadas. Contém lignanas, alcaloides e flavonoides que inibem a formação e facilitam a eliminação de cálculos renais ao relaxar os ureteres. Apresenta também marcante ação diurética, anti-inflamatória e protetora do sistema urinário e hepático.",
+    "how_to_use": "• Decocção Renal: Ferva 1 colher de sopa da planta inteira seca em 1 xícara de água por 5 minutos. Desligue o fogo, abafe por mais 5 minutos, coe e consuma ao longo do dia para estimular a eliminação de toxinas.",
+    "bath_instructions": "• Banho de Dissolução e Fluidez Emocional: Ferva 1,5 litros de água. Desligue o fogo e adicione 3 colheres de sopa de quebra-pedra seca. Abafe por 10 minutos, coe e deixe amornar. Despeje do pescoço para baixo após o banho, mentalizando a quebra de bloqueios internos rígidos, ressentimentos e mágoas endurecidas.",
+    "incense_usage": "• Defumação de Desbloqueio e Harmonização: Queime a erva seca em brasa. A fumaça suave e herbal ajuda a dissolver barreiras energéticas no ambiente que geram discórdia ou estagnação mental, restabelecendo o fluxo natural de entendimento mútuo.",
+    "image_path": "/images/herbs/quebra-pedra.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 6) & Monografias de Plantas Medicis da Organização Mundial da Saúde (OMS)",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Erva-Pombinha, Saxífraga, Filanto",
+    "contraindications": "Evitar o uso contínuo por mais de 21 dias sem pausa. Contraindicado para gestantes (relaxa a musculatura uterina), lactantes e crianças menores de 6 anos."
+  },
+  {
+    "name": "Arnica",
+    "scientific_name": "Arnica montana",
+    "slug": "arnica",
+    "description": "Planta de flores amarelas originária das regiões montanhosas da Europa, amplamente consagrada na medicina integrativa. Suas flores contêm lactonas sesquiterpênicas com extraordinária atividade anti-inflamatória, analgésica e anti-equimótica. É excelente para o tratamento de contusões, dores musculares, reumatismo e processos inflamatórios localizados (uso estritamente externo).",
+    "how_to_use": "• Compressa Analgésica: Prepare uma infusão com 1 colher de chá de flores de arnica em 250ml de água fervendo. Deixe esfriar, coe, embeba uma gaze limpa e aplique topicamente sobre a área machucada por 15 minutos (evite feridas abertas).",
+    "bath_instructions": "• Banho de Recuperação Muscular e Revitalização: Ferva 2 litros de água. Desligue o fogo e adicione 3 colheres de sopa de flores de arnica. Cubra e abafe por 15 minutos. Coe e misture à água morna para um escalda-pés reconfortante ou despeje dos ombros para baixo após atividades exaustivas, mentalizando o alívio das tensões físicas e a renovação celular.",
+    "incense_usage": "• Defumação de Proteção Espiritual e Vitalidade: Queime flores secas de arnica em brasa de carvão. A fumaça balsâmica atua restabelecendo a integridade do campo energético do ambiente após discussões tensas ou acidentes, banindo energias de trauma e dor física.",
+    "image_path": "/images/herbs/arnica.png",
+    "source_type": "integrative",
+    "sources": "Monografias da Comissão E da Alemanha & Farmacopeia Homeopática Francesa",
+    "benefits": [
+      "anti-inflamatorio",
+      "dor",
+      "cicatrizante"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Arnica-Montana, Tabaco-de-Montanha",
+    "contraindications": "Uso exclusivamente externo (tópico). Altamente tóxica se ingerida por via oral. Não aplicar em feridas abertas, cortes ou mucosas."
+  },
+  {
+    "name": "Espinheira-Santa",
+    "scientific_name": "Monteverdia ilicifolia",
+    "slug": "espinheira-santa",
+    "description": "Arbusto nativo da região sul do Brasil, conhecido por suas folhas com espinhos nas margens. Seus taninos e flavonoides possuem potente ação antiácida, cicatrizante de mucosas gástricas e analgésica digestiva comprovada cientificamente. É o principal tratamento fitoterapêutico para gastrites, úlceras estomacais, azia e dispepsias nervosas.",
+    "how_to_use": "• Infusão Gástrica Protetora: Use 1 colher de sopa de folhas secas de espinheira-santa para 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma 30 minutos antes das principais refeições.",
+    "bath_instructions": "• Banho de Proteção Digestiva e Emocional: Prepare uma infusão fervendo 1,5 litros de água e adicionando 3 colheres de sopa de folhas de espinheira-santa. Deixe abafado por 15 minutos, coe e espere amornar. Despeje lentamente sobre o corpo mentalizando a criação de um escudo de proteção energética que filtra sentimentos negativos alheios e digere as próprias tensões.",
+    "incense_usage": "• Defumação de Filtragem Energética: Queime folhas secas em um incensário. A fumaça atua limpando o ambiente de resíduos de inveja e cobiça, auxiliando os moradores a estabelecerem limites saudáveis em suas interações diárias.",
+    "image_path": "/images/herbs/espinheira-santa.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Estudos Clínicos da Central de Medicamentos (CEME)",
+    "benefits": [
+      "digestao",
+      "anti-inflamatorio",
+      "cicatrizante"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Maytenus, Salva-Almas, Cancerosa, Erva-da-Juventude",
+    "contraindications": "Contraindicado para gestantes (pode provocar contrações uterinas e reduzir a fixação do embrião), lactantes (reduz a secreção de leite) e crianças menores de 6 anos."
+  },
+  {
+    "name": "Passiflora",
+    "scientific_name": "Passiflora incarnata",
+    "slug": "passiflora",
+    "description": "Trepadeira exuberante cujas flores e folhas contêm alcaloides indólicos e flavonoides com marcante ação depressora do sistema nervoso central. Atua como um dos mais potentes sedativos e ansiolíticos naturais da fitoterapia clássica. Promove a melhora significativa do sono, alívio de palpitações cardíacas de origem nervosa e redução da irritabilidade cotidiana.",
+    "how_to_use": "• Infusão Tranquilizante Noturna: Adicione 1 colher de chá de folhas e flores secas de passiflora em 1 xícara de água fervendo. Abafe por 10 minutos, coe e beba preferencialmente 1 hora antes de dormir.",
+    "bath_instructions": "• Banho de Acalento contra Insônia: Ferva 1 litro de água. Apague o fogo e acrescente 3 colheres de sopa de passiflora seca. Deixe abafado por 10 minutos, coe e tempere com água morna. Tome o banho do pescoço para baixo à noite, mentalizando o desligamento dos ruídos externos e o mergulho em um sono reparador e protegido.",
+    "incense_usage": "• Defumação de Paz Profunda e Sono Tranquilo: Queime folhas secas de passiflora em carvão vegetal. A fumaça suave purifica a atmosfera doméstica de vibrações de histeria, preocupação e angústia, induzindo a um estado de relaxamento ideal para práticas meditativas e repouso.",
+    "image_path": "/images/herbs/passiflora.png",
+    "source_type": "integrative",
+    "sources": "British Herbal Pharmacopoeia & Monografia de Plantas Medicinais da Agência Europeia de Medicamentos",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Flor-do-Maracujá, Maracujá-Silvestre",
+    "contraindications": "Evitar o consumo associado a álcool, sedativos ou calmantes sintéticos (potencializa a sonolência). Não recomendado o uso antes de dirigir."
+  },
+  {
+    "name": "Valeriana",
+    "scientific_name": "Valeriana officinalis",
+    "slug": "valeriana",
+    "description": "Planta herbácea perene nativa da Europa e Ásia, cujas raízes e rizomas exalam um odor característico marcante. Contém ácidos valerênicos e valepotriatos que agem nos receptores GABA do cérebro, reduzindo significativamente o tempo de latência do sono e acalmando a hiperexcitabilidade mental. É amplamente prescrita como alternativa natural e segura aos ansiolíticos sintéticos em casos de distúrbios do sono e estresse severo.",
+    "how_to_use": "• Infusão Sedativa das Raízes: Adicione 1 colher de chá de raízes picadas de valeriana em 1 xícara de água fervente. Deixe abafado por 15 minutos (ou ferva por 3 minutos em decocção), coe e consuma 30 a 60 minutos antes de se deitar.",
+    "bath_instructions": "• Banho de Desaceleração e Desligamento Mental: Ferva 1,5 litros de água e adicione 2 colheres de sopa de raízes de valeriana. Deixe ferver por 3 minutos, desligue o fogo e abafe por 10 minutos. Coe e misture à água do banho. Despeje do pescoço para baixo, mentalizando a liberação de todas as tensões musculares e mentais do dia, permitindo-se descansar inteiramente.",
+    "incense_usage": "• Defumação de Ancoramento e Alívio de Estresse Crônico: Queime as raízes secas e picadas sobre o carvão. Embora o odor seja pungente e característico, sua fumaça possui forte efeito sedativo no ambiente, desfazendo bloqueios de estresse extremo e trazendo sensação de segurança e aterramento.",
+    "image_path": "/images/herbs/valeriana.png",
+    "source_type": "integrative",
+    "sources": "United States Pharmacopeia (USP) & Monografia da OMS sobre Radix Valerianae",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse",
+      "cansaco"
+    ],
+    "aliases": "Erva-dos-Gatos, Valeriana-Oficial",
+    "contraindications": "Não deve ser ingerida junto com álcool, sedativos sintéticos ou antes de operar veículos. Evitar o uso contínuo por mais de 4 semanas consecutivas."
+  },
+  {
+    "name": "Macela",
+    "scientific_name": "Achyrocline satureioides",
+    "slug": "macela",
+    "description": "Planta aromática de flores amarelas e delicadas que cresce em campos abertos da América do Sul. Rica em flavonoides e óleos essenciais, destaca-se por suas potentes ações antiespasmódica, digestiva, anti-inflamatória e calmante suave. É tradicionalmente utilizada no tratamento de distúrbios digestivos de origem nervosa, cólicas intestinais e para promover relaxamento físico.",
+    "how_to_use": "• Chá Digestivo e Suave: Coloque 1 colher de sopa de flores secas de macela em 1 xícara de água fervente. Deixe abafado por 5 a 10 minutos, coe e consuma morno após as refeições ou antes de dormir.",
+    "bath_instructions": "• Banho de Acalento e Purificação Dourada: Ferva 1,5 litros de água. Desligue o fogo e adicione 4 colheres de sopa de flores de macela secas. Abafe por 15 minutos até a água adquirir um tom amarelo dourado radiante. Coe. Despeje do pescoço para baixo após o banho normal, mentalizando harmonia, proteção angelical, brilho pessoal e aconchego emocional.",
+    "incense_usage": "• Defumação de Harmonia e Limpeza Sutil: Queime flores de macela secas em brasa. A fumaça exala um perfume doce e herbal que dissipa imediatamente tensões no ar, promovendo sentimentos de tranquilidade, união familiar e clareza nos relacionamentos domésticos.",
+    "image_path": "/images/herbs/macela.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 5) & Formulário de Fitoterapia Popular do Rio Grande do Sul",
+    "benefits": [
+      "relaxamento",
+      "digestao",
+      "anti-inflamatorio",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Marcela, Marcela-do-Campo, Macela-do-Sertão",
+    "contraindications": "Evitar o uso em pessoas com conhecida sensibilidade a plantas da família Asteraceae. Evitar o uso concomitante com sedativos e ansiolíticos."
+  },
+  {
+    "name": "Dente-de-Leão",
+    "scientific_name": "Taraxacum officinale",
+    "slug": "dente-de-leao",
+    "description": "Planta herbácea perene extremamente resistente, caracterizada por suas flores amarelas que se transformam em globos de sementes plumosas. Rica em potássio, inulina e princípios amargos (taraxacina), possui excelente atividade diurética (sem perda de potássio), depurativa do sangue e estimulante das funções hepáticas e biliares. Auxilia na digestão, eliminação de toxinas e redução de inchaços corporais.",
+    "how_to_use": "• Decocção de Raízes Depurativas: Ferva 1 colher de chá de raízes secas picadas em 250ml de água por 5 minutos, coe e consuma pela manhã.\n\n• Infusão Diurética de Folhas: Adicione 1 colher de sopa de folhas secas em 1 xícara de água fervente, abafe por 10 minutos, coe e consuma ao longo do dia.",
+    "bath_instructions": "• Banho de Renovação e Limpeza de Estagnações: Ferva 2 litros de água com 3 colheres de sopa de folhas e raízes secas de dente-de-leão por 3 minutos. Abafe por 10 minutos e coe. Deixe amornar. Despeje do pescoço para baixo após o banho regular, mentalizando a desintoxicação de pensamentos negativos e a renovação de suas metas e energia de vida.",
+    "incense_usage": "• Defumação de Libertação e Novos Começos: Queime folhas e flores desidratadas sobre carvão em brasa. A fumaça atua dissipando barreiras mentais, medos limitantes e apegos ao passado, abrindo espaço para novas oportunidades e novos ciclos prósperos na residência.",
+    "image_path": "/images/herbs/dente-de-leao.png",
+    "source_type": "integrative",
+    "sources": "British Herbal Pharmacopoeia & Monografia da OMS sobre Folium et Radix Taraxaci",
+    "benefits": [
+      "diuretico",
+      "digestao",
+      "imunidade"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Taraxaco, Coroa-de-Monge, Amor-dos-Homens",
+    "contraindications": "Contraindicado em pessoas com obstrução dos dutos biliares, úlcera gastroduodenal, gastrite aguda e obstrução intestinal."
+  },
+  {
+    "name": "Bardana",
+    "scientific_name": "Arctium lappa",
+    "slug": "bardana",
+    "description": "Planta de grandes folhas e flores espinhosas cujas raízes profundas são ricas em inulina, compostos poliacetilênicos e ácidos fenólicos. Destaca-se na medicina integrativa por sua impressionante ação depurativa do sangue, desintoxicante linfática e sebostática. É muito recomendada para o tratamento de afecções crônicas da pele, como acne severa, psoríase, eczemas e furunculose.",
+    "how_to_use": "• Decocção Depurativa das Raízes: Adicione 1 colher de sobremesa de raízes fatiadas de bardana em 1 xícara de água. Ferva por 5 a 8 minutos, coe e beba em jejum ou entre as refeições.\n\n• Compressa Tópica para Acne: Umedeça uma gaze no chá morno e aplique suavemente sobre a pele limpa do rosto por 15 minutos.",
+    "bath_instructions": "• Banho de Desintoxicação Cutânea e Áurica: Ferva 2 litros de água com 3 colheres de sopa de raízes de bardana picadas por 7 minutos. Abafe por 10 minutos e coe. Despeje morno do pescoço para baixo, mentalizando a expulsão de toxinas físicas, a desinflamação do corpo e a limpeza profunda do seu campo energético pessoal.",
+    "incense_usage": "• Defumação de Purificação Profunda e Banimento: Queime pedacinhos de raiz seca de bardana sobre carvão vegetal. A fumaça de aroma denso e terroso purifica o ambiente contra acúmulo de sentimentos ruins, ciúme e vibrações que causam discórdia familiar.",
+    "image_path": "/images/herbs/bardana.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Homeopática dos Estados Unidos & Manual de Fitoterapia Dermatológica",
+    "benefits": [
+      "pele",
+      "anti-inflamatorio",
+      "diuretico",
+      "cicatrizante"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Pegamassa, Orelha-de-Gigante, Erva-dos-Tinhorões",
+    "contraindications": "Evitar o uso por gestantes, lactantes e crianças. Pacientes diabéticos devem monitorar a glicemia devido ao risco de hipoglicemia."
+  },
+  {
+    "name": "Unha-de-Gato",
+    "scientific_name": "Uncaria tomentosa",
+    "slug": "unha-de-gato",
+    "description": "Trepadeira lenhosa gigante nativa da floresta amazônica, que possui espinhos curvos semelhantes a unhas de gato em suas folhas. Seus alcaloides oxindólicos pentacíclicos conferem-lhe uma das mais potentes ações imunomoduladoras, anti-inflamatórias e antioxidantes do reino vegetal. É amplamente empregada no tratamento adjuvante de artrite reumatoide, osteoartrite, inflamações crônicas e para o fortalecimento do sistema imunológico.",
+    "how_to_use": "• Decocção Imunomoduladora da Casca: Ferva 1 colher de sopa de casca interna desidratada de unha-de-gato em 1 xícara de água por 10 a 15 minutos. Cubra, deixe amornar, coe e consuma até 2 vezes ao dia.",
+    "bath_instructions": "• Banho de Proteção Física e Fortalecimento Energético: Ferva 2 litros de água com 2 colheres de sopa de casca de unha-de-gato por 15 minutos. Coe e deixe amornar até uma temperatura agradável. Despeje do pescoço para baixo, mentalizando o fortalecimento de seu escudo áurico, a vitalidade do corpo físico e a cura de dores articulares.",
+    "incense_usage": "• Defumação de Proteção e Elevação de Frequência: Queime pedaços secos de casca de unha-de-gato em brasa. A fumaça espessa e amadeirada é excelente para selar o ambiente doméstico contra invasões espirituais indesejadas e elevar a vibração de cura.",
+    "image_path": "/images/herbs/unha-de-gato.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico da Farmacopeia Brasileira & Monografias da Organização Mundial da Saúde (OMS)",
+    "benefits": [
+      "imunidade",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Herba-do-Peru, Cipó-de-Gato",
+    "contraindications": "Contraindicado para pacientes transplantados ou que usam imunossupressores (devido ao seu efeito imunoestimulante) e mulheres grávidas."
+  },
+  {
+    "name": "Uxi-Amarelo",
+    "scientific_name": "Endopleura uchi",
+    "slug": "uxi-amarelo",
+    "description": "Árvore alta e majestosa endêmica da Bacia Amazônica, cuja casca cinzenta e fibrosa é largamente utilizada na medicina tradicional e integrativa. Rica em bergenina, substância com extraordinária atividade anti-inflamatória, imunomoduladora e antioxidante. É amplamente recomendada na saúde da mulher para auxiliar no tratamento de miomas uterinos, cistos ovarianos, endometriose e infecções urinárias.",
+    "how_to_use": "• Decocção para Saúde Feminina: Adicione 1 colher de sopa de casca de uxi-amarelo picada em 1 litro de água. Ferva por 10 a 15 minutos em fogo baixo. Coe e consuma ao longo do dia (frequentemente associado ao chá de unha-de-gato).",
+    "bath_instructions": "• Banho de Útero e Conexão Sagrada Feminina: Prepare a decocção concentrada fervendo 2 colheres de sopa de casca de uxi-amarelo em 1,5 litros de água por 15 minutos. Coe e misture em uma bacia grande para banho de assento morno de 15 minutos, mentalizando a cura física e energética do aparelho reprodutor, liberando bloqueios de fertilidade e traumas femininos.",
+    "incense_usage": "• Defumação de Resgate da Energia Ancestral: Queime a casca desidratada de uxi-amarelo em carvão. A fumaça terrosa e profunda reconecta o ambiente com as forças da natureza e do sagrado feminino, restabelecendo a harmonia e o respeito no lar.",
+    "image_path": "/images/herbs/uxi-amarelo.png",
+    "source_type": "integrative",
+    "sources": "Estudos de Etnofarmacologia da Amazônia & Manual Prático de Ginecologia Natural",
+    "benefits": [
+      "anti-inflamatorio",
+      "hormonal",
+      "imunidade"
+    ],
+    "emotions": [
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Uxi, Axuá, Pururu",
+    "contraindications": "Embora muito seguro para o útero, é contraindicado durante a gestação e lactação. Interromper o uso durante o fluxo menstrual mais intenso se notar aumento."
+  },
+  {
+    "name": "Hibisco",
+    "scientific_name": "Hibiscus sabdariffa",
+    "slug": "hibisco",
+    "description": "Arbusto cultivado em regiões tropicais, cujos cálices florais vermelhos e carnosos dão origem a uma das bebidas mais populares do mundo. Apresenta alta concentração de antocianinas, flavonoides e ácidos orgânicos que atuam como poderosos antioxidantes, diuréticos e redutores da pressão arterial. É muito utilizado no auxílio do emagrecimento saudável, controle do colesterol e combate à retenção de líquidos.",
+    "how_to_use": "• Infusão Termogênica e Diurética: Adicione 1 colher de sopa de cálices secos de hibisco em 1 xícara de água fervente. Abafe por 5 a 8 minutos, coe e beba quente ou gelado ao longo do dia.",
+    "bath_instructions": "• Banho de Atração, Paixão e Autoestima: Ferva 1,5 litros de água. Ao desligar o fogo, adicione 3 colheres de sopa de flores secas de hibisco. Abafe até a água ficar de cor vermelho rubi vibrante e coe. Despeje do pescoço para baixo após o banho normal, mentalizando amor-próprio, poder de atração, vitalidade criativa e ativação da energia sexual saudável.",
+    "incense_usage": "• Defumação de Magnetismo e Harmonia Amorosa: Queime as flores secas de hibisco em carvão em brasa. A fumaça exala um aroma suave que atrai vibrações de amor, desejo, sociabilidade e desfaz a frieza emocional acumulada nos cômodos da casa.",
+    "image_path": "/images/herbs/hibisco.png",
+    "source_type": "integrative",
+    "sources": "Estudos Clínicos sobre Hipertensão e Hibisco (Journal of Nutrition) & Tradição Herbal de Afrodisíacos",
+    "benefits": [
+      "diuretico",
+      "circulacao",
+      "imunidade",
+      "pele"
+    ],
+    "emotions": [
+      "alegria",
+      "cansaco"
+    ],
+    "aliases": "Mimo-de-Vênus, Vinagreira, Caruru-Azedo",
+    "contraindications": "Evitar por gestantes (pode alterar níveis hormonais e causar relaxamento uterino), pessoas com hipotensão arterial ou que buscam engravidar."
+  },
+  {
+    "name": "Cavalinha",
+    "scientific_name": "Equisetum arvense",
+    "slug": "cavalinha",
+    "description": "Planta pré-histórica singular que se assemelha a uma pequena cauda de cavalo e cresce em áreas úmidas. É um dos maiores tesouros minerais da natureza, possuindo alto teor de silício orgânico, potássio e flavonoides. Destaca-se por sua espetacular ação diurética (que não altera a eliminação de eletrólitos), remineralizante de ossos e articulações, além de fortalecer cabelos, unhas e estimular a síntese de colágeno na pele.",
+    "how_to_use": "• Decocção Remineralizante: Devido ao alto teor de silício, ferva 1 colher de sopa de hastes secas de cavalinha em 1 xícara de água por 5 minutos. Abafe por 10 minutos, coe e beba duas vezes ao dia.",
+    "bath_instructions": "• Banho de Fortalecimento Físico e Fluidez Energética: Ferva 2 litros de água com 4 colheres de sopa de cavalinha seca por 5 minutos. Coe e deixe amornar. Despeje lentamente a partir do pescoço, mentalizando a estruturação de seu corpo físico, o fortalecimento de sua força interior e a eliminação do inchaço e cansaço das pernas.",
+    "incense_usage": "• Defumação de Proteção e Foco Mental: Queime as hastes secas de cavalinha em carvão. A fumaça sutil ajuda a estruturar pensamentos dispersos, promovendo a disciplina mental, o foco em metas difíceis e a filtragem de energias caóticas externas.",
+    "image_path": "/images/herbs/cavalinha.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Alemã (Commission E) & Formulário Fitoterápico Nacional do SUS",
+    "benefits": [
+      "diuretico",
+      "pele",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Cauda-de-Cavalo, Cola-de-Cavalo, Milho-de-Cobra",
+    "contraindications": "Evitar o uso por pessoas com insuficiência renal ou cardíaca severa. Não utilizar de forma contínua por períodos superiores a 15 dias sem pausa."
+  },
+  {
+    "name": "Chapéu-de-Couro",
+    "scientific_name": "Echinodorus grandiflorus",
+    "slug": "chapeu-de-couro",
+    "description": "Planta aquática de grandes folhas coriáceas e rígidas que lembram a forma de um chapéu típico nordestino. Rica em flavonoides, diterpenos e sais minerais, destaca-se por sua excelente ação depurativa, anti-inflamatória, antirreumática e diurética. É tradicionalmente utilizada para auxiliar no tratamento de gota, reumatismo crônico, excesso de ácido úrico no sangue e infecções do trato urinário.",
+    "how_to_use": "• Infusão Depurativa e Antigota: Coloque 1 colher de sopa de folhas picadas de chapéu-de-couro em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e beba 2 a 3 vezes ao dia.",
+    "bath_instructions": "• Banho de Desinflamação e Limpeza Emocional Profunda: Ferva 2 litros de água e adicione 3 colheres de sopa de folhas secas de chapéu-de-couro. Abafe por 10 minutos e coe. Despeje morno do pescoço para baixo após o banho normal, mentalizando o alívio das dores articulares e a eliminação de sentimentos pesados e ressentimentos antigos que enrijecem a mente.",
+    "incense_usage": "• Defumação de Purificação de Ambientes Estagnados: Queime folhas secas picadas sobre o carvão. A fumaça terrosa purifica o ar e ajuda a desobstruir energias de estagnação mental e rancor acumulados por desentendimentos de longa data no lar.",
+    "image_path": "/images/herbs/chapeu-de-couro.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 6) & Manual de Fitoterapia de Plantas Medicinais da Mata Atlântica",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "dor",
+      "circulacao"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Erva-do-Brejo, Chapeuzinho, Alface-do-Brejo",
+    "contraindications": "Evitar o uso por pessoas com hipotensão arterial crônica e insuficiência cardíaca ou renal severa, devido à forte ação diurética."
+  },
+  {
+    "name": "Mulungu",
+    "scientific_name": "Erythrina mulungu",
+    "slug": "mulungu",
+    "description": "Árvore nativa do cerrado brasileiro, com belas flores alaranjadas e casca cientificamente reverenciada por suas propriedades farmacológicas no sistema nervoso. Contém alcaloides como a eritravina que atuam diretamente nos receptores de GABA, apresentando forte efeito ansiolítico, sedativo suave e antiespasmódico. É um dos melhores recursos naturais para o tratamento de insônia severa, síndrome do pânico, histeria e ansiedade crônica.",
+    "how_to_use": "• Decocção Sedativa da Casca: Ferva 1 colher de sobremesa de casca de mulungu triturada in 1 xícara de água por 10 minutos. Desligue o fogo, abafe por mais 5 minutos, coe e consuma 1 hora antes de dormir para garantir um sono reparador.",
+    "bath_instructions": "• Banho de Acalento contra Ataques de Pânico e Nervosismo: Prepare uma decocção fervendo 3 colheres de sopa de casca de mulungu em 2 litros de água por 15 minutos. Coe e deixe amornar até uma temperatura muito agradável. Despeje lentamente do pescoço para baixo, mentalizando a descida de uma onda de paz divina, acalmando o coração acelerado e relaxando os nervos.",
+    "incense_usage": "• Defumação de Harmonia Familiar e Serenidade Cósmica: Queime lascas secas de mulungu sobre carvão em brasa. A fumaça densa e com notas de madeira acalma imediatamente mentes agitadas e agressividade acumulada nos cômodos, restabelecendo a paz absoluta no lar.",
+    "image_path": "/images/herbs/mulungu.png",
+    "source_type": "integrative",
+    "sources": "Estudos de Psicofarmacologia de Plantas Nacionais (USP) & Manual de Fitoterapia Integrativa do SUS",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Corticeira, Mulungu-Cerejeira, Bico-de-Papagaio",
+    "contraindications": "Contraindicado para pessoas que utilizam medicamentos anti-hipertensivos ou sedativos químicos, pois pode potencializar seus efeitos."
+  },
+  {
+    "name": "Erva-Doce",
+    "scientific_name": "Pimpinella anisum",
+    "slug": "erva-doce",
+    "description": "Planta herbácea anual de flores brancas e sementes pequenas e muito aromáticas, cultivada desde a antiguidade. Seus frutos contêm óleo essencial rico em anetol, substância que confere forte atividade carminativa, antiespasmódica, galactagoga e expectorante. É ideal para aliviar gases intestinais, cólicas infantis, má digestão, tosses com catarro e estimular a lactação em mães.",
+    "how_to_use": "• Infusão Antigases e Cólicas: Esmague levemente 1 colher de chá de sementes de erva-doce para liberar os óleos essenciais. Adicione a 1 xícara de água fervendo, abafe por 7 a 10 minutos, coe e beba morno após as refeições principais.",
+    "bath_instructions": "• Banho de Doçura, Conforto e Proteção Infantil: Ferva 1 litro de água, apague o fogo e junte 2 colheres de sopa de sementes de erva-doce. Deixe abafado por 10 minutos e coe. Despeje morno sobre o corpo após o banho higiênico, mentalizando o recolhimento, a doçura da alma, a redução de medos ocultos e a atração de energias ternas.",
+    "incense_usage": "• Defumação de Acolhimento e Paz de Espírito: Queime as sementes secas de erva-doce em carvão vegetal. A fumaça adocicada e reconfortante desfaz o estresse mental, suaviza sentimentos de solidão e cria uma atmosfera propícia para a amabilidade e a união familiar.",
+    "image_path": "/images/herbs/erva-doce.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Europeia & Monografia de Fitoterapia do Ministério da Saúde do Brasil",
+    "benefits": [
+      "digestao",
+      "relaxamento",
+      "expectorante",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Erva-Doce-Verdadeira, Anis, Pimpinela",
+    "contraindications": "Evitar o uso do óleo essencial por gestantes, lactantes e crianças. O chá deve ser consumido em quantidades moderadas por mulheres grávidas."
+  },
+  {
+    "name": "Funcho",
+    "scientific_name": "Foeniculum vulgare",
+    "slug": "funcho",
+    "description": "Planta herbácea perene de folhas plumosas amarelas e aroma pronunciado que lembra o anis. Rico em anetol e fenchona, possui excelentes propriedades digestivas, diuréticas, antiespasmódicas e anti-inflamatórias. Auxilia no alívio de cólicas estomacais e abdominais, estimula a produção de leite materno e combate a retenção de líquidos com eficácia.",
+    "how_to_use": "• Infusão Digestiva e Diurética: Amasse 1 colher de chá de sementes secas de funcho e adicione a 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma após o almoço ou jantar.",
+    "bath_instructions": "• Banho de Alinhamento Energético e Equilíbrio Físico: Ferva 1,5 litros de água, desligue e adicione 3 colheres de sopa de sementes ou folhas frescas de funcho. Deixe abafado por 10 minutos, coe e espere amornar. Despeje do pescoço para baixo, mentalizando a digestão das experiências diárias difíceis e o restabelecimento do equilíbrio interno.",
+    "incense_usage": "• Defumação de Purificação e Clareza Mental: Queime sementes de funcho desidratadas sobre brasas. A fumaça exala um aroma fresco e herbal que limpa o ambiente de confusões mentais, ciúmes e promove a clareza de ideias em ambientes profissionais.",
+    "image_path": "/images/herbs/funcho.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Britânica & Mapeamento de Fitoterápicos do SUS (Atenção Básica)",
+    "benefits": [
+      "digestao",
+      "diuretico",
+      "calmante",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Erva-Doce-de-Cabeça, Funcho-Doce",
+    "contraindications": "Evitar o uso excessivo em gestantes devido à presença de estragol. Contraindicado para pessoas com hipersensibilidade ao anetol."
+  },
+  {
+    "name": "Losna",
+    "scientific_name": "Artemisia absinthium",
+    "slug": "losna",
+    "description": "Planta medicinal de folhagem prateada e sabor extremamente amargo, historicamente associada à alquimia e à medicina popular. Contém princípios amargos (absintina) e óleos essenciais que atuam como potentes estimulantes do apetite, digestivos, coleréticos e vermífugos. É um recurso clássico para tratar a anorexia nervosa, atonia da vesícula biliar, verminoses intestinais e cólicas menstruais.",
+    "how_to_use": "• Infusão Estimulante Digestiva: Adicione 1 colher de chá de folhas secas de losna em 1 xícara de água fervente (sabor altamente amargo). Deixe abafado por 5 a 7 minutos, coe e beba no máximo 1 xícara ao dia dividida em pequenas colheres antes das refeições.",
+    "bath_instructions": "• Banho de Descarrego Pesado e Quebra de Feitiços Mentais: Ferva 2 litros de água e acrescente 2 colheres de sopa de losna seca. Deixe abafado por 15 minutos e coe. Deixe amornar. Despeje estritamente do pescoço para baixo após o banho normal, mentalizando a destruição de invejas profundas, pensamentos obsessivos e o corte de cordões energéticos negativos.",
+    "incense_usage": "• Defumação de Proteção Psíquica e Limpeza Energética Pesada: Queime folhas desidratadas de losna em carvão vegetal. A fumaça canforada e amarga é uma ferramenta poderosa para banir formas-pensamento hostis, miasmas astrais e purificar ambientes com histórico de conflitos graves.",
+    "image_path": "/images/herbs/losna.png",
+    "source_type": "integrative",
+    "sources": "Monografia da ESCOP (European Scientific Cooperative on Phytotherapy) & Formulário Fitoterápico do SUS",
+    "benefits": [
+      "digestao",
+      "antibacteriano",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Absinto, Erva-dos-Vermes, Alenço",
+    "contraindications": "Altamente contraindicado na gestação (abortivo), lactação e em casos de úlceras estomacais. Evitar uso contínuo por mais de 7 dias devido à toxicidade da tujona."
+  },
+  {
+    "name": "Poejo",
+    "scientific_name": "Mentha pulegium",
+    "slug": "poejo",
+    "description": "Pequena erva rasteira extremamente aromática pertencente à família das mentas, muito comum em áreas de pastagem úmidas. Rica em pulegona, exibe excelente ação expectorante, mucolítica, antiespasmódica e digestiva. É tradicionalmente empregada na fitoterapia para aliviar tosses produtivas, gripes, asma, má digestão associada a flatulências.",
+    "how_to_use": "• Infusão Expectorante: Adicione 1 colher de chá de folhas e flores secas de poejo em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma quente ou morno. Ideal para crianças (em dosagens reduzidas) e adultos gripados.",
+    "bath_instructions": "• Banho de Abertura de Caminhos e Alívio Respiratório: Ferva 1,5 litros de água. Ao ferver, apague o fogo e adicione 3 colheres de sopa de poejo fresco ou seco. Abafe por 10 minutos e coe. Despeje morno do pescoço para baixo, respirando fundo o perfume mentolado, mentalizando a purificação das vias aéreas e a desobstrução das emoções reprimidas.",
+    "incense_usage": "• Defumação de Purificação do Ar e Foco: Queime folhas secas de poejo em carvão. A fumaça rica em pulegona limpa o ar de germes físicos e energéticos, renova a atmosfera mental do ambiente de trabalho e desperta a intuição e a clareza de pensamento.",
+    "image_path": "/images/herbs/poejo.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Portuguesa & Tradição Ervanária do Interior do Brasil (Phytotherapy Manual)",
+    "benefits": [
+      "respiratorio",
+      "expectorante",
+      "digestao",
+      "calmante"
+    ],
+    "emotions": [
+      "cansaco",
+      "ansiedade"
+    ],
+    "aliases": "Poejo-Real, Hortelã-dos-Campos",
+    "contraindications": "Altamente contraindicado na gestação (forte ação abortiva do óleo essencial) e para crianças menores de 2 anos devido a riscos respiratórios e hepáticos."
+  },
+  {
+    "name": "Pata-de-Vaca",
+    "scientific_name": "Bauhinia forficata",
+    "slug": "pata-de-vaca",
+    "description": "Árvore nativa do Brasil cujas folhas possuem formato característico semelhante a pegadas de bovinos. Seus flavonoides (caempferitrina) conferem-lhe potente atividade hipoglicemiante cientificamente documentada, sendo apelidada de insulina vegetal. Além de auxiliar no controle do diabetes, apresenta excelente ação diurética, antioxidante e depurativa do organismo.",
+    "how_to_use": "• Decocção Hipoglicemiante: Ferva 2 folhas secas picadas de pata-de-vaca em 250ml de água por 5 minutos. Desligue, abafe por mais 10 minutos, coe e consuma após as refeições principais conforme orientação profissional.",
+    "bath_instructions": "• Banho de Equilíbrio Vital e Redução de Tensões: Ferva 2 litros de água com 4 folhas secas de pata-de-vaca por 5 minutos. Coe e deixe amornar. Despeje do pescoço para baixo após o banho normal, mentalizando a harmonização de suas energias vitais, o equilíbrio do açúcar e da doçura na vida e a eliminação do cansaço.",
+    "incense_usage": "• Defumação de Estabilidade e Ancoramento Espiritual: Queime folhas secas em carvão em brasa. A fumaça suave atua promovendo a estabilidade emocional dos moradores, ancorando energias de paz, equilíbrio financeiro e clareza nas decisões de negócios.",
+    "image_path": "/images/herbs/pata-de-vaca.png",
+    "source_type": "integrative",
+    "sources": "Estudo de Eficácia Hipoglicemiante da Bauhinia (Unicamp) & Formulário de Fitoterapia do SUS",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "circulacao"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Pé-de-Boi, Unha-de-Vaca, Bauínia",
+    "contraindications": "Pessoas diabéticas em tratamento medicamentoso devem monitorar a glicemia frequentemente, pois a planta possui forte efeito hipoglicemiante."
+  },
+  {
+    "name": "Jurubeba",
+    "scientific_name": "Solanum paniculatum",
+    "slug": "jurubeba",
+    "description": "Arbusto espinhoso nativo do Brasil, de flores roxas e pequenos frutos amarelos de sabor intensamente amargo. Contém alcaloides esteroidais e saponinas que agem como potentes estimulantes das secreções gástricas e biliares, além de possuir ação hepatoprotetora. É amplamente empregado na medicina popular e integrativa para tratar dispepsia, ressaca alcoólica, fígado preguiçoso e atonia gástrica.",
+    "how_to_use": "• Decocção Aperiente e Hepatoprotetora: Ferva 1 colher de chá de raiz ou folhas secas picadas de jurubeba em 1 xícara de água por 5 minutos. Coe e beba em pequenas colheres 15 minutos antes de comer para abrir o apetite e facilitar a digestão.",
+    "bath_instructions": "• Banho de Desintoxicação Física e Proteção Espiritual: Ferva 1,5 litros de água com 3 colheres de sopa de folhas secas de jurubeba por 5 minutos. Deixe abafado até amornar e coe. Despeje do pescoço para baixo após o banho normal, mentalizando a limpeza de excessos físicos e a proteção áurica contra vibrações negativas e inveja alheia.",
+    "incense_usage": "• Defumação de Banimento de Más Vibrações: Queime as folhas e raízes desidratadas sobre brasas. A fumaça amarga possui alta eficiência para desintegrar miasmas astrais de inércia, preguiça coletiva e raivas acumuladas em ambientes comerciais ou residenciais.",
+    "image_path": "/images/herbs/jurubeba.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 1 - 1929) & Farmacologia de Plantas Medicinais Brasileiras",
+    "benefits": [
+      "digestao",
+      "anti-inflamatorio",
+      "diuretico"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Jurubeba-Verdadeira, Jupeba, Jurubeba-do-Pará",
+    "contraindications": "Evitar o uso diário e prolongado (superior a 15 dias) pois pode causar irritação gástrica, diarreia e sobrecarga renal."
+  },
+  {
+    "name": "Lippia Alba",
+    "scientific_name": "Lippia alba",
+    "slug": "lippia-alba",
+    "description": "Arbusto aromático nativo das Américas, muito confundido com a erva-cidreira comum devido ao seu forte e relaxante cheiro cítrico. Rica em limoneno, citral e mirceno, possui extraordinária ação ansiolítica, sedativa suave, antiespasmódica gástrica e analgésica. É amplamente empregada no controle da ansiedade, hipertensão de origem nervosa, insônia e cólicas.",
+    "how_to_use": "• Infusão Calmante e Hipotensora: Adicione 1 colher de sopa de folhas frescas picadas em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma 2 a 3 vezes ao dia, especialmente sob condições de estresse elevado.",
+    "bath_instructions": "• Banho de Serenidade e Relaxamento do Coração: Ferva 1,5 litros de água, desligue e adicione 4 colheres de sopa de folhas de Lippia Alba frescas. Deixe abafado até atingir temperatura morna agradável e coe. Despeje lentamente sobre o corpo, mentalizando o acalento do coração acelerado, a dissolução do estresse e a harmonia mental.",
+    "incense_usage": "• Defumação de Acolhimento e Purificação Emocional: Queime as folhas secas em um incensário. O aroma cítrico penetrante limpa a atmosfera áurica de desespero e medos ocultos, preenchendo o ambiente com vibrações de serenidade, amorosidade e aconchego.",
+    "image_path": "/images/herbs/lippia-alba.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Monografia de Lippia alba da Sociedade Brasileira de Farmacognosia",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante",
+      "dor"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Erva-Cidreira-de-Arbusto, Cidreira-de-Árvore, Sálvia-da-Gripe",
+    "contraindications": "Muito segura, mas deve ser consumida com moderação. Evitar antes de realizar atividades de alta concentração por seu leve efeito relaxante."
+  },
+  {
+    "name": "Anis-Estrelado",
+    "scientific_name": "Illicium verum",
+    "slug": "anis-estrelado",
+    "description": "Árvore perene originária da China e Vietnã, famosa por seus frutos em forma de estrela de 8 pontas que exalam um marcante perfume adocicado. Rica em anetol e ácido chiquímico (precursor de antivirais), possui propriedades expectorantes, antiespasmódicas, carminativas e digestivas. Auxilia no combate a gripes e tosses, gases intestinais e estimula o sistema imunológico com eficácia.",
+    "how_to_use": "• Infusão Antigripal e Digestiva: Coloque 2 a 3 estrelas de anis-estrelado em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma morno após refeições principais ou em quadros de tosses produtivas.",
+    "bath_instructions": "• Banho de Magnetismo, Brilho Pessoal e Prosperidade: Ferva 1,5 litros de água com 7 estrelas de anis-estrelado por 5 minutos. Desligue o fogo, abafe e coe após amornar. Despeje do pescoço para baixo após o banho normal, mentalizando a atração de prosperidade, o aumento de sua intuição espiritual, autoestima e brilho pessoal.",
+    "incense_usage": "• Defumação de Intuição e Abertura de Caminhos Financeiros: Queime estrelas de anis secas em brasas de carvão vegetal. A fumaça intensamente perfumada e adocicada aguça a intuição, melhora as faculdades mentais para meditação e atrai a energia do dinheiro e do sucesso comercial.",
+    "image_path": "/images/herbs/anis-estrelado.png",
+    "source_type": "integrative",
+    "sources": "Pharmacopoeia of the People's Republic of China & Tratado de Fitoterapia Energética e Fitoenergética",
+    "benefits": [
+      "digestao",
+      "imunidade",
+      "respiratorio",
+      "expectorante"
+    ],
+    "emotions": [
+      "alegria",
+      "cansaco"
+    ],
+    "aliases": "Anis-da-China, Funcho-da-China",
+    "contraindications": "Evitar o uso em bebês e crianças pequenas devido ao risco de reações neurológicas e alérgicas. Gestantes devem usar com moderação."
+  },
+  {
+    "name": "Cravo-da-Índia",
+    "scientific_name": "Syzygium aromaticum",
+    "slug": "cravo-da-india",
+    "description": "Botões florais secos de uma árvore perene nativa das Ilhas Molucas, na Indonésia, conhecidos mundialmente na culinária e medicina antiga. Apresenta o maior teor de eugenol da natureza, substância com extraordinária atividade antisséptica, analgésica local, anti-inflamatória e estimulante da circulação periférica. É amplamente utilizado contra dores de dente, infecções orais, má digestão e parasitoses intestinais.",
+    "how_to_use": "• Infusão Estimulante e Analgésica: Adicione 1 colher de chá de cravos-da-índia inteiros em 1 xícara de água fervendo. Abafe por 10 minutos, coe e consuma morno.\n\n• Gargarejo Antisséptico: Use a infusão morna para fazer bochechos em casos de inflamação de gengiva ou aftas.",
+    "bath_instructions": "• Banho de Proteção Espiritual, Limpeza de Larvas Astrais e Vitalidade: Ferva 1,5 litros de água com 1 colher de sopa de cravos-da-índia por 5 minutos. Deixe amornar e coe. Despeje do pescoço para baixo, mentalizando a queima de energias negativas grudadas no corpo (como inveja profunda), o revigoramento das forças físicas e a ativação da coragem.",
+    "incense_usage": "• Defumação de Purificação de Ambientes contra Más Influências: Queime cravos secos em carvão. A fumaça aromática, picante e forte limpa instantaneamente o ambiente de miasmas negativos, larvas astrais e atrai vibrações de prosperidade e proteção psíquica ativa.",
+    "image_path": "/images/herbs/cravo-da-india.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Francesa & Estudos Clínicos de Fitoterapia Odontológica (Eugenol USP)",
+    "benefits": [
+      "dor",
+      "antibacteriano",
+      "energia",
+      "circulacao",
+      "digestao"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Cravo-Cabecinha, Girofle",
+    "contraindications": "Contraindicado o consumo excessivo em gestantes, lactantes e pessoas que utilizam medicamentos anticoagulantes. O óleo essencial pode irritar a pele."
+  },
+  {
+    "name": "Canela",
+    "scientific_name": "Cinnamomum verum",
+    "slug": "canela",
+    "description": "Casca interna seca dos ramos de uma árvore perene nativa do Sri Lanka, consagrada na medicina milenar Ayurveda e na fitoterapia moderna. Contém cinamaldeído e óleos essenciais que lhe conferem potente ação termogênica, antioxidante, hipoglicemiante e antisséptica. Estimula o metabolismo celular, melhora a circulação sanguínea, combate o cansaço crônico e auxilia no controle dos níveis de açúcar no sangue.",
+    "how_to_use": "• Decocção Termogênica: Ferva 1 a 2 paus de canela em 250ml de água por 5 a 8 minutos. Desligue, abafe por mais 5 minutos, coe e beba pela manhã ou antes de atividades físicas para obter vigor e foco.",
+    "bath_instructions": "• Banho de Atração, Prosperidade e Vitalidade Sexual: Ferva 2 litros de água com 3 paus de canela por 5 minutos. Permita amornar e coe. Despeje do pescoço para baixo, mentalizando a atração de prosperidade financeira, o aquecimento do magnetismo pessoal e a ativação de forças criativas e sexuais saudáveis.",
+    "incense_usage": "• Defumação de Fogo Interior, Prosperidade e Sucesso: Queime pedaços de casca de canela seca em brasa de carvão. A fumaça intensamente adocicada e quente ativa a energia da abundância material, estimula a mente para ação comercial e atrai boas vendas e clientes.",
+    "image_path": "/images/herbs/canela.png",
+    "source_type": "integrative",
+    "sources": "Tratados de Medicina Ayurveda (Charaka Samhita) & Farmacopeia Europeia",
+    "benefits": [
+      "energia",
+      "circulacao",
+      "anti-inflamatorio",
+      "antibacteriano"
+    ],
+    "emotions": [
+      "alegria",
+      "cansaco"
+    ],
+    "aliases": "Canela-de-Cheiro, Canela-da-Índia",
+    "contraindications": "Altamente contraindicada em altas doses na gestação (risco de estimulação uterina) e para pessoas com úlcera péptica ou hipertensão descontrolada."
+  },
+  {
+    "name": "Hipérico",
+    "scientific_name": "Hypericum perforatum",
+    "slug": "hiperico",
+    "description": "Planta de flores amarelas originária da Europa, também conhecida popularmente como Erva-de-São-João. Contém hipericina e hiperforina, compostos que aumentam os níveis de neurotransmissores como serotonina e dopamina nas fendas sinápticas. É amplamente documentada na medicina integrativa como um dos mais potentes tratamentos fitoterapêuticos para a depressão leve a moderada, ansiedade crônica e distúrbios de humor.",
+    "how_to_use": "• Infusão Antidepressiva: Adicione 1 colher de chá de flores e folhas secas de hipérico em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e beba 2 vezes ao dia (consulte sempre interações medicamentosas).",
+    "bath_instructions": "• Banho de Elevação Espiritual e Cura da Alma: Ferva 1,5 litros de água, desligue o fogo e adicione 3 colheres de sopa de hipérico seco. Abafe por 15 minutos até a infusão adquirir um tom levemente avermelhado. Coe e deixe amornar. Despeje do pescoço para baixo, mentalizando a entrada de luz solar em sua mente, afastando pensamentos tristes e restaurando a alegria vital.",
+    "incense_usage": "• Defumação de Proteção Espiritual e Banimento da Tristeza: Queime a erva seca em carvão. Conhecida na antiguidade por espantar demônios da melancolia, sua fumaça dissipa vibrações de profunda tristeza, luto e desespero que assombram lares.",
+    "image_path": "/images/herbs/hiperico.png",
+    "source_type": "integrative",
+    "sources": "Monografias Clínicas da Comissão E da Alemanha (Hyperici herba) & Farmacopeia Britânica",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante",
+      "hormonal"
+    ],
+    "emotions": [
+      "tristeza",
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Erva-de-São-João, Hipérico-Verdadeiro",
+    "contraindications": "Interage negativamente com dezenas de medicamentos (anticoncepcionais, antidepressivos, anticoagulantes). Causa fotossensibilidade (evitar exposição ao sol)."
+  },
+  {
+    "name": "Capuchinha",
+    "scientific_name": "Tropaeolum majus",
+    "slug": "capuchinha",
+    "description": "Planta alimentícia não convencional (PANC) rasteira, com belas flores ornamentais e folhas circulares de sabor picante. Apresenta alta concentração de vitamina C, flavonoides e glucosinolatos que conferem marcante atividade antibacteriana das vias aéreas e urinárias, expectorante e estimulante da imunidade. É ideal para tratar gripes acompanhadas de secreções pulmonares, infecções urinárias e queda capilar.",
+    "how_to_use": "• Infusão Fortalecedora: Adicione 1 colher de sopa de folhas e flores frescas de capuchinha em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma duas vezes ao dia.\n\n• Uso Culinário: Consuma as folhas e flores frescas diretamente em saladas para obter altos teores de antioxidantes ativos.",
+    "bath_instructions": "• Banho de Fortalecimento Físico e Revitalização Áurica: Ferva 1,5 litros de água. Ao desligar, adicione 1 xícara de folhas e flores frescas de capuchinha amassadas. Abafe por 10 minutos e coe. Despeje morno do pescoço para baixo após o banho higiênico, mentalizando o fortalecimento de sua saúde física e a elevação de suas defesas energéticas.",
+    "incense_usage": "• Defumação de Purificação de Ambientes para Convalescença: Queime flores e folhas desidratadas picadas sobre brasas. A fumaça suave purifica o ar físico de bactérias e renova a energia mental de cômodos onde pessoas estiveram doentes de cama.",
+    "image_path": "/images/herbs/capuchinha.png",
+    "source_type": "integrative",
+    "sources": "Formulário de Fitoterapia Geral e PANC de Universidades Federais & Tradição Ervanária Europeia",
+    "benefits": [
+      "imunidade",
+      "respiratorio",
+      "expectorante",
+      "antibacteriano",
+      "pele"
+    ],
+    "emotions": [
+      "cansaco",
+      "alegria"
+    ],
+    "aliases": "Flor-de-Sangue, Chagas, Agrião-do-México",
+    "contraindications": "Contraindicado em pessoas com hipotireoidismo e úlceras estomacais ativas devido ao teor de glicosinolatos que podem irritar a mucosa gástrica."
+  },
+  {
+    "name": "Artemísia",
+    "scientific_name": "Artemisia vulgaris",
+    "slug": "artemisia",
+    "description": "Planta perene robusta de aroma forte e folhas recortadas com a parte inferior acinzentada, historicamente associada à deusa grega Ártemis. Contém flavonoides, cumarinas e óleos essenciais que atuam como excelentes reguladores hormonais femininos, emenagogos e tônicos digestivos. É amplamente indicada na medicina integrativa para tratar ciclos menstruais irregulares, cólicas severas e estomacais.",
+    "how_to_use": "• Chá Regulador Feminino: Coloque 1 colher de chá de folhas secas de artemísia em 1 xícara de água fervendo. Abafe por 10 minutos, coe e consuma até 2 vezes ao dia (evitar durante a gravidez por sua ação estimulante uterina).",
+    "bath_instructions": "• Banho de Resgate do Sagrado Feminino e Intuição: Ferva 1,5 litros de água, desligue e adicione 3 colheres de sopa de artemísia seca. Deixe abafado por 10 minutos, coe e tempere com água morna. Despeje lentamente do pescoço para baixo, mentalizando a conexão com a sabedoria dos ciclos naturais, o equilíbrio ginecológico e o despertar da intuição profunda.",
+    "incense_usage": "• Defumação de Limpeza Psíquica e Conexão Espiritual: Queime as folhas secas em carvão em brasa. A fumaça densa e mística abre as faculdades psíquicas de percepção, purifica o ambiente de bloqueios energéticos antigos e facilita meditações profundas.",
+    "image_path": "/images/herbs/artemisia.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Alemã (Commission E) & Tratados de Ginecologia Natural e Saberes Ancestrais",
+    "benefits": [
+      "hormonal",
+      "tpm",
+      "menopausa",
+      "digestao",
+      "dor"
+    ],
+    "emotions": [
+      "tristeza",
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Losna-Brava, Erva-de-São-João-Feminina",
+    "contraindications": "Contraindicado durante a gestação (abortivo e emenagogo) e lactação. Pode provocar reações alérgicas em pessoas sensíveis a compostos terpênicos."
+  },
+  {
+    "name": "Arruda",
+    "scientific_name": "Ruta graveolens",
+    "slug": "arruda",
+    "description": "Arbusto de folhas verde-acinzentadas e odor extremamente pungente e característico, amplamente utilizado nas culturas tradicionais do Brasil e do Mediterrâneo. Contém rutina (flavonoide que fortalece os vasos sanguíneos), alcaloides e óleos essenciais com forte ação antiespasmódica, anti-inflamatória e estimulante da circulação. Na medicina integrativa, seu uso terapêutico externo exige cautela.",
+    "how_to_use": "• Uso Externo Tópico: Prepare uma infusão suave com 1 colher de café de folhas secas de arruda em 1 xícara de água fervente. Espere esfriar, coe e utilize em compressas sobre varizes ou pernas cansadas por 15 minutos (não ingerir sem supervisão médica).",
+    "bath_instructions": "• Banho de Descarrego Forte e Proteção Espiritual: Ferva 2 litros de água. Ao desligar o fogo, adicione 1 ramo fresco de arruda (macerado com as mãos). Abafe por 15 minutos e coe. Despeje estritamente do pescoço para baixo após o banho normal, mentalizando a limpeza completa de cargas negativas adquiridas, banimento de invejas e blindagem de seu campo áurico.",
+    "incense_usage": "• Defumação de Banimento Absoluto de Energias Negativas: Queime folhas secas de arruda em carvão vegetal. A fumaça penetrante e resinosa da arruda é considerada uma das mais fortes ferramentas para desintegrar feitiços mentais, invejas acumuladas, larvas astrais e afastar presenças espirituais perturbadoras do lar.",
+    "image_path": "/images/herbs/arruda.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Homeopática Brasileira & Tradição Popular Afro-Brasileira e Ibérica de Limpeza Energética",
+    "benefits": [
+      "circulacao",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Arruda-Fêmea, Arruda-dos-Jardins, Ruta-Forte",
+    "contraindications": "Altamente contraindicada para gestantes (fortemente abortiva e tóxica). O contato da planta fresca com a pele sob o sol pode causar fitofotodermatite grave."
+  },
+  {
+    "name": "Guiné",
+    "scientific_name": "Petiveria alliacea",
+    "slug": "guine",
+    "description": "Planta herbácea nativa da floresta amazônica e das regiões tropicais das Américas, com um odor forte característico que lembra o alho. Contém compostos sulfurados, flavonoides e alcaloides que exibem marcante atividade imunomoduladora, anti-inflamatória e analgésica expressiva. É tradicionalmente consagrada como uma das ervas de proteção espiritual mais poderosas.",
+    "how_to_use": "• Uso Tópico Analgésico: Faça uma infusão com 1 colher de chá de folhas secas de guiné em 250ml de água fervendo. Deixe amornar, coe, molhe uma gaze limpa e aplique topicamente sobre articulações doloridas para alívio da dor do reumatismo (uso estritamente externo).",
+    "bath_instructions": "• Banho de Descarrego Pesado e Quebra de Demandas: Ferva 1,5 litros de água, desligue e adicione 3 folhas frescas de guiné amassadas. Deixe abafado até amornar e coe. Despeje obrigatoriamente do pescoço para baixo, mentalizando a quebra de amarras energéticas, corte de inveja, ciúme crônico e remoção de vibrações adversas.",
+    "incense_usage": "• Defumação de Defesa Psíquica e Limpeza de Cantos Estagnados: Queime folhas secas de guiné sobre carvão em brasa. A fumaça forte e picante atua esterilizando o ambiente de energias maléficas, pensamentos hostis dirigidos e desfazendo nós de inércia acumulados.",
+    "image_path": "/images/herbs/guine.png",
+    "source_type": "integrative",
+    "sources": "Estudos Etnofarmacológicos de Plantas de Proteção & Sabedoria Oral dos Ervanários do Mercado Ver-o-Peso",
+    "benefits": [
+      "dor",
+      "anti-inflamatorio",
+      "imunidade"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Erva-de-Guiné, Tipi, Amansa-Senhor",
+    "contraindications": "Tóxica se consumida em grandes volumes ou por tempo prolongado. Totalmente proibida na gestação. O uso espiritual deve evitar o consumo do chá."
+  },
+  {
+    "name": "Manjericão",
+    "scientific_name": "Ocimum basilicum",
+    "slug": "manjericao",
+    "description": "Planta aromática cultivada mundialmente, de flores delicadas e folhas perfumadas ricas em linalol, eugenol e geraniol. Possui ação antiespasmódica, digestiva, anti-inflamatória e relaxante muscular suave do sistema digestório. Além de ser um tempero culinário fantástico, atua de forma excelente para reduzir o estresse mental e a fadiga intelectual.",
+    "how_to_use": "• Chá Estimulante e Digestivo: Coloque 1 colher de sopa de folhas frescas de manjericão em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e beba quente após as refeições ou em momentos de exaustão mental.",
+    "bath_instructions": "• Banho de Equilíbrio, Harmonia e Prosperidade: Ferva 1,5 litros de água. Ao apagar o fogo, junte 1 xícara de folhas frescas de manjericão maceradas. Deixe abafado por 10 minutos, coe e tempere com água morna. Despeje do pescoço para baixo após o seu banho de higiene normal, mentalizando harmonia mental, amor universal, prosperidade e paz interior.",
+    "incense_usage": "• Defumação de Harmonia Familiar e Purificação Afetiva: Queime folhas secas de manjericão. A fumaça exala um perfume doce e herbal que dissipa imediatamente energias de irritação coletiva, impaciência e agressividade verbal, preenchendo o lar com vibrações de paz.",
+    "image_path": "/images/herbs/manjericao.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 6) & Tratados de Fitoenergética e Fitoaromaterapia",
+    "benefits": [
+      "digestao",
+      "relaxamento",
+      "ansiedade",
+      "calmante",
+      "dor"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade",
+      "alegria"
+    ],
+    "aliases": "Alfavaca-Doce, Basílico, Manjericão-de-Folha-Larga",
+    "contraindications": "Evitar o uso terapêutico (óleo essencial concentrado) em gestantes, lactantes e crianças. O uso culinário do chá leve é seguro."
+  },
+  {
+    "name": "Hortelã-Gorda",
+    "scientific_name": "Plectranthus amboinicus",
+    "slug": "hortela-gorda",
+    "description": "Planta suculenta de folhas aveludadas, grossas e intensamente aromáticas, também conhecida como Malvariço ou Hortelã-da-Bahia. Contém timol e carvacrol em abundância, conferindo-lhe uma espetacular atividade expectorante, broncodilatadora, antisséptica pulmonar e anti-inflamatória das mucosas bucais. É amplamente empregada no tratamento de tosses agudas, gargantas inflamadas e bronquites.",
+    "how_to_use": "• Chá Expectorante e Anti-inflamatório: Adicione 1 folha fresca média de hortelã-gorda (previamente higienizada e picada) em 1 xícara de água fervente. Abafe por 10 minutos, coe e beba quente com mel.\n\n• Gargarejo de Garganta: Use o chá sem açúcar morno para gargarejos em casos de amigdalite.",
+    "bath_instructions": "• Banho de Renovação Física e Desobstrução Pulmonar: Ferva 2 litros de água. Apague o fogo e adicione 5 folhas frescas amassadas de hortelã-gorda. Abafe por 10 minutos, coe e deixe amornar. Despeje lentamente sobre o corpo enquanto inala os vapores aromáticos mentolados, mentalizando a recuperação de sua energia vital física.",
+    "incense_usage": "• Defumação de Limpeza de Vias Aéreas e Purificação de Miasmas: Queime folhas secas picadas sobre carvão. A fumaça resinosa e balsâmica quebra o acúmulo de energias estagnadas deixadas por doenças respiratórias físicas, purificando e desinfetando o ar.",
+    "image_path": "/images/herbs/hortela-gorda.png",
+    "source_type": "integrative",
+    "sources": "Formulário de Fitoterapia do SUS (Atenção Primária à Saúde) & Estudos de Eficácia do Timol na Saúde de Vias Aéreas",
+    "benefits": [
+      "respiratorio",
+      "expectorante",
+      "anti-inflamatorio",
+      "antibacteriano"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Malva-do-Reino, Hortelã-Pimenta-Grande, Hortelã-da-Bahia, Orelha-de-Monge",
+    "contraindications": "Evitar o uso em pessoas com gastrite crônica severa ou refluxo gastroesofágico sem orientação profissional."
+  },
+  {
+    "name": "Assa-Peixe",
+    "scientific_name": "Vernonia polysphaera",
+    "slug": "assa-peixe",
+    "description": "Arbusto rústico nativo dos campos e pastagens do Brasil, de folhas ásperas e inflorescências esbranquiçadas. Contém flavonoides, sesquiterpenos e taninos com potente ação diurética, anti-inflamatória e béquica (antitussígena e expectorante). É amplamente utilizado na fitoterapia integrativa para acalmar tosses agudas, gripes severas, asma e dor de garganta.",
+    "how_to_use": "• Infusão Respiratória e Diurética: Coloque 1 colher de sopa de folhas picadas de assa-peixe em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e consuma até 3 vezes ao dia morno.",
+    "bath_instructions": "• Banho de Abertura Energética e Desinflamação Muscular: Ferva 2 litros de água com 3 colheres de sopa de folhas de assa-peixe secas por 5 minutos. Permita amornar até atingir temperatura de conforto e coe. Despeje lentamente do pescoço para baixo, mentalizando a liberação de catarro emocional e cansaço físico.",
+    "incense_usage": "• Defumação de Limpeza de Campo Áurico e Purificação do Ar: Queime folhas secas no carvão vegetal. A fumaça suave e terrosa dissolve bloqueios energéticos que geram sensação de aperto no peito e desânimo físico nos moradores, clareando a atmosfera áurica.",
+    "image_path": "/images/herbs/assa-peixe.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 5) & Formulário Fitoterápico de Fitoterapia de Minas Gerais",
+    "benefits": [
+      "respiratorio",
+      "expectorante",
+      "anti-inflamatorio",
+      "diuretico"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Assa-Peixe-Branco, Vernônia",
+    "contraindications": "Não utilizar em crianças menores de 2 anos e mulheres grávidas sem supervisão médica. Evitar o uso prolongado."
+  },
+  {
+    "name": "Barbatimão",
+    "scientific_name": "Stryphnodendron adstringens",
+    "slug": "barbatimao",
+    "description": "Árvore retorcida do cerrado brasileiro cujas cascas contêm altíssima concentração de taninos condensados. É reconhecido cientificamente como um dos cicatrizantes, anti-inflamatórios, adstringentes e antissépticos naturais mais potentes do planeta. É amplamente utilizado no tratamento de feridas, úlceras de pele e inflamações ginecológicas (uso externo).",
+    "how_to_use": "• Compressa Cicatrizante Externa: Ferva 1 colher de sobremesa de casca de barbatimão em 250ml de água por 10 minutos. Deixe esfriar completamente, coe e use um pano limpo para aplicar compressas sobre a pele limpa.\n\n• Banho de Assento: Dilua a decocção morna em bacia limpa para tratar inflamações íntimas.",
+    "bath_instructions": "• Banho de Proteção da Pele e Limpeza de Cargas Sexuais Negativas: Ferva 2 colheres de sopa de casca de barbatimão em 1,5 litros de água por 15 minutos. Coe e deixe amornar. Faça um banho de assento morno ou despeje estritamente do pescoço para baixo, mentalizando a limpeza profunda de memórias sexuais negativas e blindagem da pele.",
+    "incense_usage": "• Defumação de Selamento Áurico e Proteção Física: Queime lascas secas de casca sobre brasa. A fumaça densa e amadeirada sela o ambiente doméstico contra drenagem de energia física e vitalidade dos moradores, desativando miasmas negativos.",
+    "image_path": "/images/herbs/barbatimao.png",
+    "source_type": "integrative",
+    "sources": "Memento Fitoterápico da ANVISA & Estudos Farmacológicos de Cicatrização da Casca de Barbatimão (USP)",
+    "benefits": [
+      "cicatrizante",
+      "anti-inflamatorio",
+      "antibacteriano",
+      "pele"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Casca-da-Mocidade, Barbatimão-Verdadeiro",
+    "contraindications": "Uso oral deve ser extremamente cauteloso (pode causar constipação severa e irritação). Contraindicado em gestantes (abortivo)."
+  },
+  {
+    "name": "Confrei",
+    "scientific_name": "Symphytum officinale",
+    "slug": "confrei",
+    "description": "Planta de folhas grandes, ásperas e aveludadas, cujas raízes e folhas são ricas em alantoína, taninos e mucilagens. Apresenta espetacular capacidade de regeneração tecidual, aceleração da consolidação de fraturas ósseas, cicatrização de feridas e alívio de tendinites (uso exclusivamente externo devido a alcaloides pirrolizidínicos tóxicos).",
+    "how_to_use": "• Cataplasma Regenerador de Contusões: Amasse folhas frescas de confrei até obter uma pasta úmida. Aplique sobre a área com entorses, fraturas ou dores musculares (não use em feridas abertas) cobrindo com gaze por 20 minutos (estritamente externo).",
+    "bath_instructions": "• Banho de Recuperação Óssea e Articular: Ferva 2 litros de água com 3 colheres de sopa de folhas secas de confrei por 5 minutos. Coe e deixe amornar. Despeje lentamente sobre as pernas e articulações doloridas após o banho normal, mentalizando a reestruturação e regeneração de seus tecidos.",
+    "incense_usage": "• Defumação de Reestruturação e Proteção contra Traumas: Queime folhas secas no carvão. A fumaça terrosa atua no campo vibratório do ambiente dissipando memórias de traumas físicos causados por quedas ou acidentes, restabelecendo a harmonia sutil.",
+    "image_path": "/images/herbs/confrei.png",
+    "source_type": "integrative",
+    "sources": "British Herbal Pharmacopoeia & Monografia da Comissão E de Fitoterapia Externa da Alemanha",
+    "benefits": [
+      "cicatrizante",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Consolda, Orelha-de-Asno, Confrei-Gigante",
+    "contraindications": "Totalmente proibido para uso interno (oral) devido a alcaloides pirrolizidínicos hepatotóxicos e cancerígenos. Usar apenas externamente na pele íntegra."
+  },
+  {
+    "name": "Mentrasto",
+    "scientific_name": "Ageratum conyzoides",
+    "slug": "mentrasto",
+    "description": "Erva anual de aroma forte e pequenas flores azul-arroxeadas, nativa das Américas e muito comum em pastos. Rica em flavonoides e alcaloides pirrolizidínicos, destaca-se por sua notável atividade anti-inflamatória e analgésica nas articulações. É amplamente recomendada no tratamento complementar de artrose, reumatismo e cólicas menstruais.",
+    "how_to_use": "• Infusão Antirreumática e Analgésica: Coloque 1 colher de chá de folhas e flores secas de mentrasto em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma até 2 vezes ao dia (uso por tempo limitado de até 2 semanas).",
+    "bath_instructions": "• Banho para Alívio de Dores Crônicas e Rigidez Articular: Ferva 1,5 litros de água. Ao desligar, junte 3 colheres de sopa de mentrasto seco. Abafe por 10 minutos, coe e deixe amornar. Despeje lentamente sobre as regiões do corpo com dores articulares e musculares, mentalizando a dissolução da rigidez física.",
+    "incense_usage": "• Defumação de Flexibilidade Mental e Dissolução de Inércia: Queime a erva seca em carvão vegetal. A fumaça herbal limpa o ambiente doméstico de energias rígidas de teimosia, intransigência e orgulho excessivo, promovendo o entendimento mútuo.",
+    "image_path": "/images/herbs/mentrasto.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 5) & Pesquisas Clínicas em Antirreumáticos Naturais",
+    "benefits": [
+      "dor",
+      "anti-inflamatorio",
+      "tpm"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Erva-de-São-João-Popular, Catinga-de-Bode",
+    "contraindications": "Evitar o uso oral por mais de 5 dias seguidos ou em doses altas devido à presença de alcaloides que podem sobrecarregar o fígado."
+  },
+  {
+    "name": "Sene",
+    "scientific_name": "Senna alexandrina",
+    "slug": "sene",
+    "description": "Pequeno arbusto originário do Nordeste da África e do Oriente Médio, mundialmente conhecido por seus folíolos finos e secos. Contém senosídeos A e B, glicosídeos antraquinônicos que estimulam a motilidade do intestino grosso e reduzem a absorção de água. Apresenta potente ação laxante de curto prazo recomendada para constipações intestinais agudas.",
+    "how_to_use": "• Infusão Laxante Rápida: Adicione 1 colher de chá de folíolos secos de sene em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e beba à noite antes de deitar (não utilizar por mais de 7 dias consecutivos).",
+    "bath_instructions": "• Banho de Desapego e Eliminação de Estagnações Emocionais: Ferva 1,5 litros de água, desligue e adicione 2 colheres de sopa de folhas de sene. Abafe por 10 minutos e coe. Despeje do pescoço para baixo, mentalizando a eliminação total de bloqueios mentais e o desapego de mágoas passadas.",
+    "incense_usage": "• Defumação de Libertação e Renovação de Ciclos: Queime folhas secas de sene em brasas. A fumaça atua desfazendo a estagnação mental e apegos doentios a situações passadas na residência, renovando o fluxo da vida.",
+    "image_path": "/images/herbs/sene.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia dos Estados Unidos (USP) & Monografia da OMS sobre Folium Sennae",
+    "benefits": [
+      "digestao",
+      "diuretico"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Sena, Cássia",
+    "contraindications": "Contraindicado em caso de dor abdominal de causa desconhecida, obstrução intestinal, colite ulcerosa, Doença de Crohn, gestação e lactação."
+  },
+  {
+    "name": "Centelha Asiática",
+    "scientific_name": "Centella asiatica",
+    "slug": "centelha-asiatica",
+    "description": "Planta herbácea rasteira nativa das regiões tropicais úmidas da Ásia, de folhas em forma de rim amplamente consagrada na medicina ayurvédica. Seus triterpenos (como o asiaticosídeo) estimulam a síntese de colágeno nos tecidos vasculares e na pele, melhorando a circulação de retorno. É amplamente indicada para o tratamento de varizes, cicatrização de feridas e melhoria da capacidade cognitiva.",
+    "how_to_use": "• Infusão Circulatória e Pele: Adicione 1 colher de sobremesa de folhas secas de centelha asiática em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma até 2 vezes ao dia entre as refeições.",
+    "bath_instructions": "• Banho de Drenagem, Regeneração e Conexão de Mente-Corpo: Ferva 1,5 litros de água, desligue e adicione 3 colheres de sopa de centelha asiática seca. Abafe por 10 minutos e coe. Despeje do pescoço para baixo morno, mentalizando a ativação da circulação e a regeneração celular.",
+    "incense_usage": "• Defumação de Longevidade, Foco e Estímulo Mental: Queime folhas desidratadas de centelha asiática em brasa. A fumaça sutil melhora a atmosfera mental do ambiente, facilitando estudos complexos e trabalhos de pesquisa intelectual.",
+    "image_path": "/images/herbs/centelha-asiatica.png",
+    "source_type": "integrative",
+    "sources": "United States Pharmacopeia & Estudos Clínicos Vasculares da Centella asiatica (Commission E)",
+    "benefits": [
+      "circulacao",
+      "pele",
+      "cicatrizante",
+      "foco",
+      "memoria"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Gotu-Kola, Centela",
+    "contraindications": "Evitar o uso concomitante com sedativos e hipnóticos. Contraindicado para gestantes e pessoas com doenças hepáticas ativas."
+  },
+  {
+    "name": "Garra-do-Diabo",
+    "scientific_name": "Harpagophytum procumbens",
+    "slug": "garra-do-diabo",
+    "description": "Planta herbácea rasteira originária do deserto do Kalahari na África Austral, cujo fruto possui espinhos em forma de ganchos afiados. Suas raízes tuberosas contêm harpagosídeo, um iridoide com potente e cientificamente comprovada ação anti-inflamatória e analgésica. É o principal tratamento fitoterapêutico alternativo e seguro para artroses dolorosas e artrites.",
+    "how_to_use": "• Decocção Analgésica de Raízes: Ferva 1 colher de chá de raízes secas trituradas de garra-do-diabo em 1 xícara de água por 5 a 8 minutos. Abafe por mais 10 minutos, coe e consuma de 2 a 3 vezes ao dia.",
+    "bath_instructions": "• Banho de Alívio das Dores Crônicas e Vitalidade Física: Prepare uma decocção fervendo 3 colheres de sopa de raiz de garra-do-diabo em 2 litros de água por 10 minutos. Coe e tempere com água morna. Despeje sobre as costas e articulações doloridas, mentalizando a dissolução total da dor.",
+    "incense_usage": "• Defumação de Quebra de Feitiços Mentais e Barreiras Rígidas: Queime pedaços secos de raiz no carvão em brasa. A fumaça exala um odor amadeirado forte que desintegra pensamentos de autossabotagem e crenças limitantes direcionadas ao lar.",
+    "image_path": "/images/herbs/garra-do-diabo.png",
+    "source_type": "integrative",
+    "sources": "Monografia da OMS sobre Radix Harpagophyti & Memento Fitoterápico da ANVISA",
+    "benefits": [
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Harpago, Garra",
+    "contraindications": "Contraindicado em pessoas com úlcera gástrica ou duodenal e cálculos biliares ativos. Gestantes devem evitar o uso."
+  },
+  {
+    "name": "Ginseng Brasileiro",
+    "scientific_name": "Pfaffia paniculata",
+    "slug": "ginseng-brasileiro",
+    "description": "Planta medicinal nativa das florestas brasileiras, cujas raízes tuberosas são ricas em fitoesteroides adaptógenos e saponinas. Aumenta a resistência inespecífica do organismo ao estresse físico e mental crônico, combatendo a fadiga profunda e fortalecendo a imunidade. Estimula a vitalidade geral, melhora a memória, o foco e exibe leve ação revigorante.",
+    "how_to_use": "• Decocção Adaptógena das Raízes: Ferva 1 colher de sobremesa de raízes trituradas de pfaffia em 250ml de água por 5 a 10 minutos. Deixe abafado por mais 5 minutos, coe e consuma preferencialmente pela manhã.",
+    "bath_instructions": "• Banho de Superenergia e Vigor Vital: Ferva 1,5 litros de água com 2 colheres de sopa de raiz de pfaffia por 7 minutos. Coe e deixe amornar. Despeje a partir do pescoço, de manhã, mentalizando o despertar de toda a sua resiliência física e mental.",
+    "incense_usage": "• Defumação de Revigoramento Energético e Coragem: Queime pequenos pedaços de raiz seca de pfaffia em brasas. A fumaça terrosa e tonificante eleva a vibração do ambiente, afastando a inércia, apatia coletiva e preguiça mental.",
+    "image_path": "/images/herbs/ginseng-brasileiro.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira & Pesquisas Clínicas em Adaptógenos (Instituto de Biociências da USP)",
+    "benefits": [
+      "energia",
+      "imunidade",
+      "memoria",
+      "foco"
+    ],
+    "emotions": [
+      "cansaco",
+      "tristeza"
+    ],
+    "aliases": "Pfaffia, Corandi, Caroba",
+    "contraindications": "Evitar o uso por pessoas hipertensas sem monitoramento regular e pacientes com câncer estrogênio-dependente."
+  },
+  {
+    "name": "Catinga-de-Mulata",
+    "scientific_name": "Tanacetum vulgare",
+    "slug": "catinga-de-mulata",
+    "description": "Planta herbácea aromática de folhas recortadas e inflorescências amarelas em forma de pequenos botões agrupados, da família das Asteráceas. Rica em tujona, flavonoides e lactonas, destaca-se por sua potente ação analgésica local, antiespasmódica urinária e anti-inflamatória. É tradicionalmente empregada no alívio de cólicas menstruais severas e reumatismos.",
+    "how_to_use": "• Uso Externo Tópico (Compressas): Coloque 1 colher de sopa de folhas secas de catinga-de-mulata em 1 xícara de água fervente. Deixe esfriar, coe, molhe um pano e aplique sobre articulações doloridas por 15 minutos (evitar ingestão).",
+    "bath_instructions": "• Banho de Purificação Uterina e Equilíbrio Menstrual: Prepare uma infusão fervendo 1,5 litros de água e adicionando 2 colheres de sopa de folhas e flores secas. Abafe por 10 minutos e coe. Deixe amornar. Faça um banho de assento morno ou despeje do pescoço para baixo, mentalizando a limpeza dos ciclos.",
+    "incense_usage": "• Defumação de Afastamento de Invejas e Proteção Ativa: Queime as folhas e flores desidratadas sobre brasa. A fumaça de aroma picante e forte limpa miasmas negativos, desfaz olho-gordo crônico e afasta correntes de inveja.",
+    "image_path": "/images/herbs/catinga-de-mulata.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Francesa & Manual de Fitoterapia de Plantas Tradicionais da Região Sul do Brasil",
+    "benefits": [
+      "hormonal",
+      "tpm",
+      "dor",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Tanaceto, Erva-de-São-Marcos, Botão-de-Sol",
+    "contraindications": "Altamente contraindicado na gestação (abortivo) e por pessoas alérgicas a plantas da família Asteraceae. O óleo essencial é tóxico."
+  },
+  {
+    "name": "Tanchagem",
+    "scientific_name": "Plantago major",
+    "slug": "tanchagem",
+    "description": "Planta herbácea perene de folhas verdes dispostas em roseta que cresce espontaneamente em terrenos úmidos. Contém taninos, mucilagens, flavonoides e iridoides com extraordinária atividade anti-inflamatória, cicatrizante, antibacteriana e expectorante. É ideal para tratar gargantas inflamadas, aftas, gripes com catarro e feridas na pele.",
+    "how_to_use": "• Gargarejo de Garganta e Aftas: Coloque 1 colher de sopa de folhas de tanchagem secas ou frescas em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e faça gargarejos morno 3 vezes ao dia.\n\n• Infusão Digestiva: Beba 1 xícara do chá morno 2 a 3 vezes ao dia.",
+    "bath_instructions": "• Banho de Cicatrização e Limpeza Emocional de Feridas do Passado: Ferva 1,5 litros de água, desligue o fogo e acrescente 3 colheres de sopa de folhas secas de tanchagem. Abafe por 10 minutos e coe. Despeje lentamente a partir do pescoço, mentalizando a cicatrização de suas dores emocionais.",
+    "incense_usage": "• Defumação de Limpeza de Conflitos e Harmonização: Queime folhas de tanchagem secas. A fumaça sutil purifica a atmosfera doméstica de vibrações de ressentimento deixadas após discussões ou atritos, restabelecendo a vibração de paz.",
+    "image_path": "/images/herbs/tanchagem.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Europeia & Formulário Fitoterápico do SUS (Atenção Básica à Saúde)",
+    "benefits": [
+      "anti-inflamatorio",
+      "cicatrizante",
+      "antibacteriano",
+      "expectorante",
+      "respiratorio"
+    ],
+    "emotions": [
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Transagem, Tanchagem-Maior, Sete-Nervos",
+    "contraindications": "Geralmente segura, mas pode causar constipação intestinal em doses extremamente elevadas. Evitar o uso por pessoas com obstrução intestinal."
+  },
+  {
+    "name": "Malva",
+    "scientific_name": "Malva sylvestris",
+    "slug": "malva",
+    "description": "Planta herbácea de belas flores lilases cujas folhas e flores contêm altíssima concentração de mucilagens protetoras das mucosas. Apresenta notável ação anti-inflamatória local, emoliente, suavizante, expectorante e calmante da pele e garganta. É muito empregada contra tosses secas irritativas, bronquites e irritações de pele.",
+    "how_to_use": "• Infusão de Tosse Seca e Mucosas: Use 1 colher de sobremesa de folhas e flores secas de malva para 1 xícara de água fervente. Deixe abafado por 10 minutos para liberar as mucilagens protetoras, coe e beba morno com mel.\n\n• Compressa Tópica Dermatológica: Aplique panos umedecidos no chá frio sobre peles secas e irritadas.",
+    "bath_instructions": "• Banho de Acolhimento, Suavidade e Proteção da Pele: Ferva 1,5 litros de água, desligue o fogo e junte 4 colheres de sopa de flores e folhas de malva. Cubra por 10 minutos e coe. Despeje do pescoço para baixo, mentalizando a suavização das tensões cotidianas e blindagem da pele.",
+    "incense_usage": "• Defumação de Doçura e Cura de Relações: Queime as flores de malva secas. A fumaça leve exala uma vibração que dissipa tensões afetivas, promovendo a suavização de tratamento, a paciência e a concórdia amorosa entre os moradores.",
+    "image_path": "/images/herbs/malva.png",
+    "source_type": "integrative",
+    "sources": "British Herbal Pharmacopoeia & Mapeamento de Fitoterapia do SUS",
+    "benefits": [
+      "anti-inflamatorio",
+      "pele",
+      "respiratorio",
+      "cicatrizante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Malva-Silvestre, Malva-Comum",
+    "contraindications": "Sem contraindicações significativas relatadas em doses recomendadas. Pode reduzir a absorção de outros medicamentos se tomada exatamente no mesmo horário."
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Tarumã",
+    "scientific_name": "Vitex montevidensis",
+    "slug": "taruma",
+    "aliases": "Maria-Preta",
+    "description": "Folhas usadas no Sul como potente depurador do sangue, diurético e regulador hormonal suave na menopausa.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/taruma.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Tomilho",
+    "scientific_name": "Thymus vulgaris",
+    "slug": "tomilho",
+    "aliases": "Poejo-Inglês",
+    "description": "Poderoso antisséptico pulmonar e digestivo. Alivia espasmos intestinais, tosse, rouquidão e dores de garganta.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de ramos secos.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/tomilho.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Tuia",
+    "scientific_name": "Thuja occidentalis",
+    "slug": "tuia",
+    "aliases": "Árvore-da-Vida",
+    "description": "Folhas usadas tradicionalmente para tratar verrugas de forma tópica, e oralmente contra sinusite ao nascer.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Aplicação tópica do óleo ou chá leve.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/tuia.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Umbaúba-Vermelha",
+    "scientific_name": "Cecropia hololeuca",
+    "slug": "umbauba-vermelha",
+    "aliases": "Embaúba-Branca",
+    "description": "Espécie de embaúba rica em flavonoides com ação cardiotônica e calmante respiratória excepcional.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão das folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/umbauba-vermelha.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Urtiga-Maior",
+    "scientific_name": "Urtica dioica",
+    "slug": "urtiga-maior",
+    "aliases": "Ortiga",
+    "description": "Folhas ricas em minerais que combatem o reumatismo, inflamações prostáticas de forma cientificamente validada.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/urtiga-maior.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Urucum",
+    "scientific_name": "Bixa orellana",
+    "slug": "urucum",
+    "aliases": "Colorau, Bixa",
+    "description": "Sementes ricas em bixina (antioxidante solar potente), protetoras da pele e úteis na imunidade e digestão.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Pó das sementes na culinária ou chá de folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/urucum.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Velas-do-Brejo",
+    "scientific_name": "Senna alata",
+    "slug": "velas-do-brejo",
+    "aliases": "Mangerioba, Fedegoso-Gigante",
+    "description": "Folhas usadas tradicionalmente no Norte e Nordeste em banhos terapêuticos contra micoses, sarna e infecções.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Banhos tópicos de decocção das folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/velas-do-brejo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Velame-do-Campo",
+    "scientific_name": "Croton campestris",
+    "slug": "velame-do-campo",
+    "aliases": "Velame",
+    "description": "Excelente depurativo do sangue tradicional, usado contra afecções dermatológicas, eczemas e reumatismo.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/velame-do-campo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Vinca-Menor",
+    "scientific_name": "Vinca minor",
+    "slug": "vinca-menor",
+    "aliases": "Pervinca",
+    "description": "Folhas usadas tradicionalmente para melhorar o fluxo sanguíneo cerebral, concentração e regular a pressão.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão suave de folhas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/vinca-menor.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Violeta",
+    "scientific_name": "Viola odorata",
+    "slug": "violeta",
+    "aliases": "Violeta-de-Cheiro",
+    "description": "Flores e folhas aromáticas com ação expectorante suave, calmante e emoliente pulmonar.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de flores secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/violeta.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Xaxim",
+    "scientific_name": "Cyathea delgadii",
+    "slug": "xaxim",
+    "aliases": "Samambaiaçu",
+    "description": "Os brotos jovens da raiz eram usados no passado em xaropes rústicos contra coqueluche e tosse crônica.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Decocção muito leve de broto.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/xaxim.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Zimbro",
+    "scientific_name": "Juniperus communis",
+    "slug": "zimbro",
+    "aliases": "Junípero",
+    "description": "Bagas aromáticas ricas em óleos essenciais fortemente diuréticos, antissépticos das vias urinárias e digestivos.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de bagas secas esmagadas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/zimbro.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Cardo-Santo",
+    "scientific_name": "Argemone mexicana",
+    "slug": "cardo-santo",
+    "aliases": "Cardo-Amarelo",
+    "description": "Folhas e sementes usadas tradicionalmente contra febres, tosses persistentes e como cicatrizante de feridas.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Decocção leve das folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/cardo-santo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Acoro",
+    "scientific_name": "Acorus calamus",
+    "slug": "acoro",
+    "aliases": "Cálamo-Aromático",
+    "description": "Raiz aromática de forte amargor usada tradicionalmente na Ásia e Europa para estimular digestão lenta.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Decocção leve da raiz seca.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/acoro.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Alcaparra",
+    "scientific_name": "Capparis spinosa",
+    "slug": "alcaparra",
+    "aliases": "Alcaparreira",
+    "description": "Botões florais com propriedades antioxidantes e anti-inflamatórias fortes que estimulam o apetite.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Botão em conserva ou infusão de folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/alcaparra.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Agrião-do-Brejo",
+    "scientific_name": "Eclipta alba",
+    "slug": "agriao-do-brejo",
+    "aliases": "Erva-Botão-Branco",
+    "description": "Planta muito similar à erva-botão clássica, com ação tônica do fígado, rins e depuradora de toxinas.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/agriao-do-brejo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Anileira-Verdadeira",
+    "scientific_name": "Indigofera tinctoria",
+    "slug": "anileira-verdadeira",
+    "aliases": "Anil, Índigo",
+    "description": "Planta do anil usada tradicionalmente em purificações espirituais e decocções antissépticas locais.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Banhos espirituais com folhas secas maceradas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/anileira-verdadeira.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Aperta-Ruão-Nativo",
+    "scientific_name": "Piper aduncum",
+    "slug": "aperta-ruao-nativo",
+    "aliases": "Pimenta-de-Macaco-Fina",
+    "description": "Folhas e frutos aromáticos adstringentes fortes, úteis para estancar sangramentos, lavar feridas e combater gases.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas secas para banhos ou chá.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/aperta-ruao-nativo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Barba-de-Velho",
+    "scientific_name": "Tillandsia usneoides",
+    "slug": "barba-de-velho",
+    "aliases": "Samambaia-de-Árvore",
+    "description": "Planta epífita fibrosa com propriedades anti-inflamatórias, diuréticas e calmantes das dores articulares.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Chá de toda a planta limpa.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/barba-de-velho.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Beldroega",
+    "scientific_name": "Portulaca oleracea",
+    "slug": "beldroega",
+    "aliases": "Beldroega-Comum",
+    "description": "Uma das poucas plantas terrestres riquíssimas em ômega-3, magnésio e cálcio. Depuradora e cicatrizante.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Folhas e talos frescos em saladas ou chá.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/beldroega.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Betônica",
+    "scientific_name": "Stachys officinalis",
+    "slug": "betonica",
+    "aliases": "Betônia",
+    "description": "Planta de uso milenar europeu contra cefaleia tensional, ansiedade crônica e congestão respiratória.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de flores secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/betonica.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Boca-de-Leão",
+    "scientific_name": "Antirrhinum majus",
+    "slug": "boca-de-leao",
+    "aliases": "Antirrino",
+    "description": "Flores usadas tradicionalmente em infusões suaves de propriedades emolientes, calmantes e cicatrizantes.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão suave.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/boca-de-leao.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Caité",
+    "scientific_name": "Heliconia",
+    "slug": "caite",
+    "aliases": "Caeté",
+    "description": "Folhas usadas tradicionalmente na mata para envolver remédios naturais ou em decocções locais.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Banhos tópicos de decocção das folhas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/caite.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Cará-Moela",
+    "scientific_name": "Dioscorea bulbifera",
+    "slug": "cara-moela",
+    "aliases": "Cará-de-Árvore",
+    "description": "Tubérculo aéreo rico em amidos depurativos do sangue e compostos cicatrizantes uterinos leves.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Consumo cozido ou chá suave de rodelas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/cara-moela.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Cipó-Azul",
+    "scientific_name": "Petrea volubilis",
+    "slug": "cipo-azul",
+    "aliases": "Viuvinha",
+    "description": "Cipó lenhoso ornamental cujas cascas e folhas são usadas na cura popular como anti-inflamatório articular.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão leve.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/cipo-azul.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Cipó-Insulina",
+    "scientific_name": "Cissus sicyoides",
+    "slug": "cipo-insulina",
+    "aliases": "Uva-Brava, Insulina-Vegetal",
+    "description": "Cipó tradicional amplamente conhecido por sua forte ação auxiliar no controle dos níveis glicêmicos.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas frescas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/cipo-insulina.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Coentro-Selvagem",
+    "scientific_name": "Eryngium foetidum",
+    "slug": "coentro-selvagem",
+    "aliases": "Coentro-de-Carijó, Chicória-de-Caboclo",
+    "description": "Folhas aromáticas fortes com potente ação digestiva, sudorífica (combate febres) e calmante de cólicas.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão rápida de folhas frescas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/coentro-selvagem.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Erva-Marta",
+    "scientific_name": "Senecio jacobaea",
+    "slug": "erva-marta",
+    "aliases": "Senécio",
+    "description": "Planta de uso externo antigo para limpar feridas crônicas e úlceras na pele devido a taninos adstringentes.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Compressas tópicas externas do chá forte.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/erva-marta.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Espada-de-São-Jorge",
+    "scientific_name": "Sansevieria trifasciata",
+    "slug": "espada-de-sao-jorge",
+    "aliases": "Sanseviéria",
+    "description": "Folha fibrosa sagrada e ornamental. Uso exclusivamente ritualístico e externo para banhos espirituais.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Banhos ritualísticos do pescoço para baixo.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/espada-de-sao-jorge.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Estévia",
+    "scientific_name": "Stevia rebaudiana",
+    "slug": "estevia",
+    "aliases": "Stevia",
+    "description": "Folhas de sabor doce que regulam os níveis de insulina no sangue de maneira suave e saudável.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Folha triturada para adoçar infusões medicinais.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/estevia.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Girassol",
+    "scientific_name": "Helianthus annuus",
+    "slug": "girassol",
+    "aliases": "Flor-do-Sol",
+    "description": "As sementes são ricas em vitamina E, e as pétalas ajudam no combate a gripes intensas e febres.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de pétalas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/girassol.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Lágrima-de-Nossa-Senhora",
+    "scientific_name": "Coix lacryma-jobi",
+    "slug": "lagrima-de-nossa-senhora",
+    "aliases": "Capim-Contas",
+    "description": "As sementes esféricas brancas são diuréticas e calmantes urinárias rústicas de forma tradicional.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Decocção de sementes quebradas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/lagrima-de-nossa-senhora.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Manjericão-Limão",
+    "scientific_name": "Ocimum citriodorum",
+    "slug": "manjericao-limao",
+    "aliases": "Manjericão-Citral",
+    "description": "Variedade de manjericão de forte perfume cítrico relaxante. Excelente digestivo e indutor de sono.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas frescas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/manjericao-limao.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Sálvia-Branca",
+    "scientific_name": "Salvia apiana",
+    "slug": "salvia-branca",
+    "aliases": "White Sage, Sálvia-Sagrada",
+    "description": "Erva sagrada das tradições nativas americanas, famosa por sua fumaça que purifica ambientes densos.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Queima em defumação direta (smudging) para limpeza áurica.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/salvia-branca.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Erva-dos-Gatos",
+    "scientific_name": "Nepeta cataria",
+    "slug": "erva-dos-gatos",
+    "aliases": "Catnip, Nêpeta",
+    "description": "Famosa erva com óleos aromáticos relaxantes para humanos e intensamente estimulantes para felinos.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão leve antes de dormir.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/erva-dos-gatos.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Ginseng-Siberiano",
+    "scientific_name": "Eleutherococcus senticosus",
+    "slug": "ginseng-siberiano",
+    "aliases": "Eleutero",
+    "description": "Planta adaptógena potente que aumenta a energia física, foco e imunidade sob estresse extremo.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Decocção da raiz seca.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/ginseng-siberiano.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Erva-Mansa",
+    "scientific_name": "Anemopsis californica",
+    "slug": "erva-mansa",
+    "aliases": "Yerba Mansa",
+    "description": "Planta medicinal tradicional americana com potente ação antibacteriana, antifúngica e cicatrizante.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas ou aplicação tópica.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/erva-mansa.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Pé-de-Pinto",
+    "scientific_name": "Boerhavia diffusa",
+    "slug": "pe-de-pinto",
+    "aliases": "Pega-Pinto, Erva-Tostão",
+    "description": "Excelente diurético e protetor hepático do folclore brasileiro, depurando os canais urinários.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/pe-de-pinto.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Sândalo",
+    "scientific_name": "Santalum album",
+    "slug": "sandalo",
+    "aliases": "Madeira-de-Sândalo",
+    "description": "Madeira aromática sagrada de aroma profundamente relaxante, meditativo e purificador de ambientes.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Queima de lascas ou uso de óleo essencial.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/sandalo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Espirulina",
+    "scientific_name": "Arthrospira platensis",
+    "slug": "espirulina",
+    "aliases": "Spirulina, Alga-Azul",
+    "description": "Superalimento rico em proteínas, ferro e antioxidantes, que atua como excelente revigorante físico.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Consumo do pó diluído em sucos.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/espirulina.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Damiána",
+    "scientific_name": "Turnera diffusa",
+    "slug": "damiana",
+    "aliases": "Damiana-da-Califórnia",
+    "description": "Erva aromática estimulante, tônica do sistema nervoso e tradicionalmente conhecida como afrodisíaco natural.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão de folhas secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/damiana.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Erva-de-São-Cristóvão",
+    "scientific_name": "Actaea racemosa",
+    "slug": "erva-de-sao-cristovao",
+    "aliases": "Cimicífuga, Black Cohosh",
+    "description": "Planta de uso secular no alívio de cólicas menstruais fortes e no controle do calor da menopausa.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão suave ou extrato sob supervisão.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/erva-de-sao-cristovao.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Alcarávia",
+    "scientific_name": "Carum carvi",
+    "slug": "alcaravia",
+    "aliases": "Cominho-Armênio, Cariz",
+    "description": "Sementes digestivas clássicas, excelentes para combater gases intestinais e estimular o apetite infantil.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão leve de sementes esmagadas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/alcaravia.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Astrágalo",
+    "scientific_name": "Astragalus membranaceus",
+    "slug": "astragalo",
+    "aliases": "Huang Qi",
+    "description": "Poderosa raiz adaptógena da Medicina Chinesa que fortalece profundamente as defesas imunológicas.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Decocção leve da raiz em fatias.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/astragalo.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  },
+  {
+    "name": "Lótus",
+    "scientific_name": "Nelumbo nucifera",
+    "slug": "lotus",
+    "aliases": "Lótus-Sagrado",
+    "description": "Planta aquática venerada no Oriente por suas propriedades calmantes psíquicas, indutoras da paz e meditação.",
+    "contraindications": "Evitar o uso em gestantes e lactantes. Não consumir de forma contínua por mais de 15 dias sem pausas.",
+    "how_to_use": "Infusão das pétalas ou sementes secas.",
+    "bath_instructions": "• Banho de Purificação Energética: Prepare 1,5 litros de água fervente. Apague o fogo, adicione 2 colheres de sopa da erva seca, abafe por 10 minutos e coe. Despeje do pescoço para baixo após o banho regulador.",
+    "incense_usage": "• Defumação de Equilíbrio de Ambientes: Queime punhados secos da erva sobre carvão vegetal em brasa. Espalhe a fumaça de dentro para fora de casa para harmonizar a atmosfera espiritual.",
+    "image_path": "/images/herbs/lotus.png",
+    "source_type": "popular",
+    "sources": "Mapeamento Fitoenergético Popular & Formulários de Práticas Integrativas do SUS",
+    "benefits": [
+      "relaxamento",
+      "imunidade"
+    ],
+    "emotions": [
+      "estresse"
+    ]
+  }
+]

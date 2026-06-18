@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Lavanda",
+    "scientific_name": "Lavandula angustifolia",
+    "slug": "lavanda",
+    "description": "Uma das plantas medicinais mais versáteis e veneradas do mundo. Suas flores roxas contêm um óleo essencial riquíssimo em linalol e acetato de linalila, substâncias cientificamente comprovadas por sua ação calmante no sistema nervoso central. Atua como um ansiolítico natural poderoso, reduzindo a frequência cardíaca, acalmando a agitação mental, aliviando o estresse crônico e combatendo a insônia. Também possui propriedades antissépticas, regeneradoras da pele e analgésicas suaves.",
+    "how_to_use": "• Infusão Relaxante: Adicione 1 colher de sobremesa de flores de lavanda seca em 1 xícara (200ml) de água fervente. Abafe por 5 a 10 minutos, coe e beba antes de dormir.\n\n• Inalação Direta: Pingue 2 a 3 gotas de óleo essencial de lavanda no travesseiro ou use em um difusor pessoal de aromas para reduzir crises de ansiedade.",
+    "bath_instructions": "• Banho de Harmonização Emocional: Prepare uma infusão fervendo 1 litro de água. Desligue o fogo e adicione 3 colheres de sopa de flores de lavanda seca (ou 2 ramos frescos). Cubra e abafe por 10 minutos. Coe a mistura e adicione 5 gotas de óleo essencial de lavanda se desejar potencializar. Deixe amornar. Após o seu banho de higiene normal, despeje o banho de lavanda lentamente do pescoço para baixo, mentalizando paz, relaxamento e limpeza de energias densas. Seque-se suavemente.",
+    "incense_usage": "• Defumação de Paz e Purificação de Ambientes: A lavanda seca é excelente para queima direta. Coloque um punhado de flores secas sobre um disco de carvão vegetal in brasa (em um incensário seguro) ou queime um bastão de lavanda amarrado (smudge stick). Espalhe a fumaça calmante e adstringente pelos cantos da casa para afastar energias de ansiedade, brigas e pesadelos, criando uma atmosfera altamente pacífica ideal para meditação e sono restaurador.",
+    "image_path": "/images/herbs/lavanda.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 6), Compêndio de Fitoterapia da OMS & Tradição Oral de Aromaterapia",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante",
+      "pele"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse",
+      "cansaco"
+    ],
+    "aliases": "Alfazema, Lavândula",
+    "contraindications": "Evitar em pacientes com hipersensibilidade ao óleo essencial. Não recomendado o uso oral do óleo por gestantes, lactantes e crianças pequenas sem orientação médica."
+  },
+  {
+    "name": "Alecrim",
+    "scientific_name": "Salvia rosmarinus",
+    "slug": "alecrim",
+    "description": "Conhecido historicamente como a erva da alegria, da clareza mental e da memória. O alecrim é um estimulante natural fantástico do sistema circulatório e cognitivo. Seus compostos ativos, como o ácido rosmarínico e o cineol, melhoram a oxigenação cerebral, aumentando a concentração, o foco e a retenção de memória, além de combater o cansaço físico e a fadiga mental. Também possui forte ação antioxidante, anti-inflamatória e auxilia na digestão lenta, aumentando a secreção de suco gástrico e reduzindo gases.",
+    "how_to_use": "• Infusão de Clareza Mental: Adicione 1 colher de sopa de folhas de alecrim fresco ou seco em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma pela manhã ou tarde (evite à noite por ser estimulante).\n\n• Inalação de Cineol: Adicione ramos de alecrim fresco em uma bacia com água fervente e respire o vapor cobrindo a cabeça com uma toalha por 5 minutos.",
+    "bath_instructions": "• Banho de Despertar e Proteção: Ferva 1,5 litros de água com 3 ramos frescos de alecrim por 3 minutos. Desligue o fogo e adicione 1 colher de sopa de sal grosso (opcional, para limpeza energética). Deixe abafado até amornar e coe. Despeje o líquido do pescoço para baixo após o banho higiênico, de preferência pela manhã ou antes do trabalho, mentalizando foco, vitalidade, alegria e proteção espiritual. Não tome este banho à noite para não interferir no sono.",
+    "incense_usage": "• Defumação de Clareza Mental e Alegria: Acenda as pontas de um bastão seco de ramos de alecrim amarrados ou coloque as folhas secas em carvão em brasa. A fumaça resinosa e herbal do alecrim é excelente para limpar a mente de pensamentos obsessivos, fadiga intelectual e purificar salas de estudos ou escritórios antes de atividades que exijam foco. Afasta a apatia e atrai vibrações de alegria e prosperidade.",
+    "image_path": "/images/herbs/alecrim.png",
+    "source_type": "integrative",
+    "sources": "Estudo Clínico sobre Cineol (Coombs et al., 2012) & Tradição Popular Ibérica de Proteção e Foco",
+    "benefits": [
+      "energia",
+      "foco",
+      "circulacao",
+      "memoria",
+      "digestao"
+    ],
+    "emotions": [
+      "cansaco",
+      "alegria"
+    ],
+    "aliases": "Alecrim-de-Jardim, Rosmarino, Alecrim-Comum",
+    "contraindications": "Evitar o uso terapêutico por via oral em gestantes (pode induzir contrações), lactantes, crianças menores de 6 anos e pessoas com hipertensão ou epilepsia."
+  },
+  {
+    "name": "Camomila",
+    "scientific_name": "Matricaria chamomilla",
+    "slug": "camomila",
+    "description": "A rainha das plantas calmantes. Rica em apigenina (um flavonoide que se liga a receptores cerebrais reduzindo a atividade do sistema nervoso), a camomila é um bálsamo contra a ansiedade, a insônia e a agitação infantil. Além de sua excelente ação calmante, ela é um poderoso antiespasmódico intestinal, aliviando cólicas menstruais, gastrites nervosas, azia e má digestão. Na pele, atua como um excelente agente anti-inflamatório, calmante de dermatites, queimaduras de sol e olheiras.",
+    "how_to_use": "• Infusão de Sono Profundo: Use 1 a 2 colheres de sopa de flores de camomila seca para 1 xícara de água fervente. Abafe por 10 minutos para extrair os óleos essenciais, coe e tome 30 minutos antes de dormir.\n\n• Compressa para Olheiras e Dermatites: Prepare um chá forte de camomila, deixe esfriar na geladeira, embeba algodões ou gazes e aplique sobre a área irritada ou olhos por 15 minutos.\n\n• Infusão Digestiva: Tome 1 xícara de chá morno de camomila sem açúcar logo após as refeições principais para evitar gases e azia.",
+    "bath_instructions": "• Banho de Acalento e Proteção Materna: Ferva 1 litro de água. Desligue o fogo e acrescente 4 colheres de sopa de flores de camomila seca. Deixe abafado por 15 minutos até extrair a cor amarela dourada da planta. Coe. Despeje morno do pescoço para baixo após o banho regular, mentalizando calma, perdão, dissolução de mágoas e acolhimento. Excelente banho para crianças agitadas antes de dormir (pode ser usado na banheira).",
+    "incense_usage": "• Defumação de Suavidade e Cura Emocional: Queime flores secas de camomila em brasa. Sua fumaça leve e levemente adocicada é perfeita para suavizar o clima de ambientes onde ocorreram discussões ou choro. Excelente para defumar quartos antes de dormir para acalmar a mente de pensamentos hiperativos e atrair vibrações de paz, doçura e cura do coração.",
+    "image_path": "/images/herbs/camomila.png",
+    "source_type": "integrative",
+    "sources": "Monografias de Plantas Medicinais da ESCOP, Formulário Fitoterápico Nacional do SUS & Sabedoria Oral Ancestral",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante",
+      "anti-inflamatorio",
+      "digestao"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Camomila-Comum, Camomila-Alemã, Matricária",
+    "contraindications": "Evitar o uso em pessoas com alergia conhecida a plantas da família Asteraceae (como margaridas). Evitar doses extremamente elevadas durante a gestação."
+  },
+  {
+    "name": "Hortelã-Pimenta",
+    "scientific_name": "Mentha x piperita",
+    "slug": "hortela-pimenta",
+    "description": "Extremamente aromática, refrescante e cheia de propriedades terapêuticas. O mentol presente em abundância em suas folhas confere ação analgésica, expectorante e relaxante muscular. É amplamente utilizada para aliviar dores de cabeça tensionais e enxaquecas, desobstruir as vias respiratórias em resfriados, sinusites e bronquites, e atuar como um dos melhores remédios naturais para a síndrome do intestino irritável, má digestão e espasmos digestivos.",
+    "how_to_use": "• Chá Expectorante e Digestivo: Adicione 1 colher de sopa de folhas frescas de hortelã amassadas em 1 xícara de água fervente. Abafe por 7 minutos, coe e beba após as refeições ou em momentos de congestão nasal.\n\n• Inalação contra Sinusite: Pingue 3 gotas de óleo essencial de hortelã ou adicione um punhado de folhas frescas em uma vasilha com água fervendo e respire o vapor profundamente.",
+    "bath_instructions": "• Banho de Descarrego e Renovação Física: Ferva 1,5 litros de água. Ao ferver, apague o fogo e adicione 1 xícara de folhas frescas de hortelã-pimenta. Abafe por 10 minutos. Coe e deixe amornar até uma temperatura agradável. Despeje do pescoço para baixo após o banho normal, sentindo o frescor do mentol agindo no corpo. Sinta a renovação das energias físicas, o alívio das dores musculares e o cansaço do dia a dia escorrendo pelo ralo.",
+    "incense_usage": "• Defumação de Renovação e Limpeza de Caminhos: Queime folhas de hortelã secas no carvão. A fumaça mentolada e forte quebra o acúmulo de energias estagnadas ou 'pesadas' em ambientes comerciais ou residenciais. Abre caminhos mentais, estimula a criatividade e traz uma sensação imediata de ar limpo, renovação e frescor espiritual.",
+    "image_path": "/images/herbs/hortela.png",
+    "source_type": "integrative",
+    "sources": "Agência Europeia de Medicamentos (EMA) - Herbal Monograph on Mentha piperita & Tradição de Purificação de Terreiro",
+    "benefits": [
+      "digestao",
+      "respiratorio",
+      "dor",
+      "energia"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Hortelã, Menta-Pimenta, Hortelã-Pimentosa",
+    "contraindications": "Evitar o uso por pessoas com obstrução das vias biliares, cálculos biliares, refluxo gastroesofágico grave ou úlceras estomacais ativas."
+  },
+  {
+    "name": "Erva-Cidreira (Melissa)",
+    "scientific_name": "Melissa officinalis",
+    "slug": "erva-cidreira-melissa",
+    "description": "Um calmante suave com um delicioso aroma cítrico. A Melissa é cientificamente reconhecida por combater a ansiedade leve a moderada, o nervosismo, as palpitações cardíacas de origem nervosa e o estresse do dia a dia. Seus compostos promovem o aumento do neurotransmissor GABA no cérebro, induzindo o relaxamento profundo e melhorando a qualidade do sono. Também possui forte ação antiviral (especialmente contra o vírus da herpes labial) e alivia cólicas e espasmos intestinais decorrentes da tensão nervosa.",
+    "how_to_use": "• Chá de Relaxamento e Sono: Adicione 1 colher de sopa de folhas de melissa frescas ou secas em 1 xícara de água fervente. Deixe abafado por 10 minutos, coe e beba 2 vezes ao dia, inclusive antes de deitar.\n\n• Compressa Antiviral para Herpes: Prepare um chá forte de melissa e aplique morno com um algodão sobre as lesões labiais de herpes até 4 vezes ao dia.",
+    "bath_instructions": "• Banho de Serenidade contra Estresse: Ferva 1 litro de água. Desligue o fogo e junte 3 colheres de sopa cheias de folhas secas de Melissa. Mantenha abafado por 10 minutos até liberar o aroma cítrico relaxante. Coe. Tome o seu banho comum e, em seguida, jogue o banho de melissa morno do pescoço para baixo, respirando fundo o aroma. Sinta o estresse ir embora, acalmando palpitações no peito e relaxando os ombros tensionados.",
+    "incense_usage": "• Defumação de Doçura e Alívio da Ansiedade: Queime melissa seca. A fumaça cítrica e reconfortante reduz tensões psíquicas, acalma corações aflitos e dissolve o medo. É maravilhosa para purificar ambientes de terapias, massagens ou quartos de pessoas que passam por momentos difíceis, preenchendo o espaço com amorosidade, doçura e serenidade.",
+    "image_path": "/images/herbs/melissa.png",
+    "source_type": "integrative",
+    "sources": "Monografias Selecionadas de Plantas Medicinais da OMS & Práticas Rituais de Cura Física e Espiritual",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Melissa, Cidreira-Verdadeira, Chá-de-França",
+    "contraindications": "Contraindicado em pessoas com hipotireoidismo (pode interferir na absorção de hormônios tireoidianos) e glaucoma. Evitar antes de operar máquinas pesadas."
+  },
+  {
+    "name": "Capim-Limão (Capim-Santo)",
+    "scientific_name": "Cymbopogon citratus",
+    "slug": "capim-limao-capim-santo",
+    "description": "Rico em citral, substância que confere seu marcante e relaxante perfume de limão. O Capim-Limão é um diurético natural suave e um calmante maravilhoso. É muito utilizado para diminuir a pressão arterial levemente, aliviar dores musculares e de cabeça, combater a retenção de líquidos e acalmar estados de histeria e estresse. Possui também ação antimicrobiana e ajuda a aliviar cólicas estomacais e intestinais.",
+    "how_to_use": "• Chá Diurético e Calmante: Coloque 1 colher de sopa de capim-limão picado (fresco de preferência) em 1 xícara de água fervendo. Abafe por 10 minutos, coe e consuma quente ou gelado ao longo do dia.\n\n• Vaporização Facial Purificante: Use o vapor do chá de capim-limão sobre o rosto para abrir os poros e combater a oleosidade excessiva da pele.",
+    "bath_instructions": "• Banho de Chá para Dores Musculares: Ferva 2 litros de água com 1 xícara de capim-limão por 5 minutos. Despeje do pescoço para baixo após o banho para relaxar a musculatura após exercícios físicos. Outra opção é preparar a infusão padrão morna em uma bacia e imergir os pés cansados (escalda-pés).",
+    "incense_usage": "• Defumação de Purificação e Desbloqueio Criativo: Queime capim-limão seco em brasa de carvão. O perfume cítrico pronunciado limpa as nuvens mentais, desfaz bloqueios energéticos e promove a inspiração artística e criativa. Muito utilizado para reenergizar salas de reuniões e espaços de criação.",
+    "image_path": "/images/herbs/capim_limao.png",
+    "source_type": "integrative",
+    "sources": "Manual de Fitoterapia Prática do SUS (Mapeamento Fitoterapêutico) & Sabedoria Popular Brasileira",
+    "benefits": [
+      "relaxamento",
+      "ansiedade",
+      "diuretico",
+      "calmante",
+      "dor"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse"
+    ],
+    "aliases": "Capim-Santo, Capim-Cidreira, Cidró, Erva-Cidreira, Capim-Cheiroso",
+    "contraindications": "Evitar em pessoas com glaucoma de ângulo estreito e hipotensão arterial severa. Mulheres grávidas devem consumir apenas sob supervisão médica."
+  },
+  {
+    "name": "Calêndula",
+    "scientific_name": "Calendula officinalis",
+    "slug": "calendula",
+    "description": "A calêndula é um dos maiores agentes cicatrizantes e anti-inflamatórios da natureza. Suas flores de cor laranja brilhante contêm uma grande quantidade de carotenoides e flavonoides, responsáveis por acelerar a regeneração celular da pele e estimular a produção de colágeno. É ideal para tratar feridas, queimaduras, picadas de insetos, dermatite de fraldas em bebês, psoríase e eczemas. Também possui propriedades antifúngicas, antibacterianas e ameniza cólicas menstruais quando ingerida.",
+    "how_to_use": "• Compressa Regeneradora para Pele: Faça uma infusão com 2 colheres de sopa de flores de calêndula em 1 xícara de água fervendo. Espere esfriar, coe e use um pano limpo para aplicar compressas frias sobre feridas ou queimaduras por 20 minutos.\n\n• Infusão Reguladora Menstrual: Coloque 1 colher de chá de flores de calêndula in 1 xícara de água fervente. Abafe por 10 minutos, coe e beba uma semana antes do início do ciclo menstrual.",
+    "bath_instructions": "• Banho de Assento Anti-inflamatório: Prepare 1 litro de chá forte de calêndula, misture na água morna em uma bacia e faça um banho de assento de 15 minutos para aliviar irritações na região íntima. Pode ser usado também do pescoço para baixo para trazer brilho pessoal e elevar a autoestima.",
+    "incense_usage": "• Defumação de Autoestima e Sucesso: A queima das flores de calêndula atrai a energia solar do sucesso, da alegria e da autoconfiança. Sua fumaça acolhedora limpa a negatividade relacionada à insegurança, rejeição e tristeza, elevando instantaneamente a vibração áurica do espaço e dos moradores.",
+    "image_path": "/images/herbs/calendula.png",
+    "source_type": "integrative",
+    "sources": "Monografia da Comissão E da Alemanha, Compêndios Farmacológicos & Tradição Mística Solar Ancestral",
+    "benefits": [
+      "pele",
+      "cicatrizante",
+      "anti-inflamatorio",
+      "antibacteriano"
+    ],
+    "emotions": [
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Mal-me-quer, Maravilha, Calêndula-Oficial",
+    "contraindications": "Contraindicado para uso oral em gestantes (potencial abortivo). Não aplicar na pele em caso de dermatites alérgicas a plantas da família Asteraceae."
+  },
+  {
+    "name": "Eucalipto",
+    "scientific_name": "Eucalyptus globulus",
+    "slug": "eucalipto",
+    "description": "Um dos descongestionantes e antissépticos respiratórios mais famosos do planeta. Suas folhas contêm o eucaliptol, composto volátil que atua de forma espetacular na diluição e eliminação de secreções pulmonares, facilitando a respiração. Possui forte ação antisséptica das vias aéreas, expectorante, antiviral e antibacteriana, sendo um remédio natural fantástico para tratar gripes, resfriados, asma, sinusites, rinites e bronquites. Além disso, alivia dores nas articulações.",
+    "how_to_use": "• Inalação Descongestionante Pulmonar: Ferva 1 litro de água com 5 a 6 folhas frescas de eucalipto. Transfira para uma bacia, posicione o rosto acima do vapor cobrindo a cabeça com uma toalha e respire o vapor profundamente por 10 minutos.\n\n• Vaporizador Natural de Chuveiro: Pendure alguns ramos de eucalipto fresco perto da saída de água do seu chuveiro. O vapor quente do banho liberará os óleos essenciais, limpando as vias aéreas todas as manhãs.",
+    "bath_instructions": "• Banho para Alívio de Dores Articulares: Ferva 2 litros de água com 10 folhas de eucalipto por 5 minutos. Misture na água da banheira ou jogue sobre o corpo morno após o banho normal. Ajuda a acalmar dores reumáticas, cansaço muscular extremo e traz foco mental.",
+    "incense_usage": "• Defumação de Desinfecção Energética e Saúde: Queime folhas de eucalipto secas. É uma das defumações de limpeza mais potentes que existem. A fumaça canforada purifica profundamente o ar de vírus e bactérias físicas, além de banir larvas mentais e energias estagnadas deixadas por doenças ou tristeza acumulada.",
+    "image_path": "/images/herbs/eucalipto.png",
+    "source_type": "integrative",
+    "sources": "British Pharmacopoeia (2020), Estudos Clínicos Respiratórios & Práticas Rituais de Defumação Xamânica",
+    "benefits": [
+      "respiratorio",
+      "expectorante",
+      "dor",
+      "antibacteriano"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Eucalipto-Glóbulo, Árvore-da-Febre",
+    "contraindications": "O óleo essencial não deve ser ingerido puro. Contraindicado em caso de inflamações gastrointestinais, vias biliares ou doenças hepáticas severas."
+  },
+  {
+    "name": "Gengibre",
+    "scientific_name": "Zingiber officinale",
+    "slug": "gengibre",
+    "description": "Uma raiz milenar altamente termogênica, anti-inflamatória e revigorante. O gingerol, principal composto active do gengibre, atua como um poderoso analgésico e antioxidante. O gengibre acelera o metabolismo, combate a fadiga crônica, estimula a digestão promovendo a secreção de enzymes gástricas, e elimina náuseas, enjoos e tonturas de forma extremamente eficaz. Também é um excelente aliado do sistema imunológico no combate a infecções respiratórias e garganta inflamada.",
+    "how_to_use": "• Decocção Termogênica e Imunológica: Ferva 1 pedaço de gengibre (cerca de 3 cm cortado em rodelas) em 250ml de água por 5 a 10 minutos. Desligue o fogo, abafe por mais 5 minutos, adicione limão se desejar, coe e beba quente pela manhã para energia ou imunidade.\n\n• Gargarismo contra Dor de Garganta: Prepare o chá de gengibre morno concentrado com uma pitada de sal e faça gargarismos de 3 a 4 vezes ao dia.\n\n• Mastigação contra Enjoos: Mastigue um pedacinho fino de gengibre fresco cru para cortar instantaneamente tonturas ou náuseas de viagem.",
+    "bath_instructions": "• Banho Termogênico de Força e Vitalidade: Ferva 1,5 litros de água com 1 pedaço de gengibre ralado de 4cm por 8 minutos. Desligue e abafe por 5 minutos. Coe. Espere amornar. Despeje do pescoço para baixo após o banho normal, mentalizando força, poder pessoal, coragem e aquecimento corporal. Ideal para dias frios ou momentos em que se sente sem rumo ou enfraquecido.",
+    "incense_usage": "• Defumação de Ativação Energética e Coragem: O gengibre seco em pó ou pequenos pedaços desidratados queimados em brasa liberam uma fumaça picante e quente. Esta fumaça estimula a ação, a iniciativa, o fogo interior e afasta o medo, a preguiça e o desânimo crônico de ambientes parados.",
+    "image_path": "/images/herbs/gengibre.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia de Medicinas Tradicionais do Extremo Oriente, Farmacologia Integrada & Sabedoria de Cura de Raiz Popular",
+    "benefits": [
+      "energia",
+      "digestao",
+      "imunidade",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "tristeza"
+    ],
+    "aliases": "Mangarataia, Gengibre-Oficial",
+    "contraindications": "Evitar o uso em altas doses por pessoas com cálculos biliares, distúrbios de coagulação (como hemofilia) ou que usam anticoagulantes."
+  },
+  {
+    "name": "Sálvia",
+    "scientific_name": "Salvia officinalis",
+    "slug": "salvia",
+    "description": "Historicamente conhecida como a planta da longevidade e da saúde feminina. A sálvia possui forte ação fitoterapêutica para regular hormônios femininos, sendo um dos melhores remédios naturais para combater as ondas de calor (fogachos) da menopausa e aliviar sintomas de TPM. Suas propriedades antissépticas e adstringentes fazem dela a planta ideal para tratar infecções da mucosa bucal, aftas, dores de garganta e gengivites, além de melhorar a digestão de gorduras e reduzir o suor excessivo.",
+    "how_to_use": "• Chá Regulador Feminino: Coloque 1 colher de sopa de folhas de sálvia seca em 1 xícara de água fervente. Abafe por 10 minutos, coe e beba 2 vezes ao dia (especialmente indicado durante a menopausa).\n\n• Infusão para Gargarejo contra Aftas e Dor de Garganta: Prepare um chá forte de sálvia com 2 colheres de sopa para 1 xícara de água fervendo. Deixe amornar, coe e faça bochechos ou gargarejos morno 3 vezes ao dia.",
+    "bath_instructions": "• Banho de Sabedoria e Equilíbrio Feminino: Ferva 1 litro de água. Desligue e acrescente 3 colheres de sopa de sálvia seca. Abafe por 10 minutos e coe. Deixe amornar. Jogue do pescoço para baixo após o banho de rotina, mentalizando sabedoria ancestral, equilíbrio das emoções e regulação dos ciclos biológicos femininos.",
+    "incense_usage": "• Defumação de Sabedoria Sagrada e Banimento de Negatividade: A sálvia comum seca é a erva sagrada por excelência das práticas de defumação. Ao queimar o bastão seco, a fumaça densa e purificadora afasta imediatamente qualquer energia intrusa, inveja ou pensamentos negativos. Restabelece o equilíbrio sagrado do ambiente.",
+    "image_path": "/images/herbs/salvia.png",
+    "source_type": "integrative",
+    "sources": "Monografia da Comissão E de Fitoterapia, Tratados de Saúde Ginecológica Natural & Sabedoria de Anciãs (Tradição Oral)",
+    "benefits": [
+      "hormonal",
+      "menopausa",
+      "tpm",
+      "antibacteriano",
+      "digestao"
+    ],
+    "emotions": [
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Salva, Sálvia-Comum, Sálvia-Real",
+    "contraindications": "Contraindicado na gestação e lactação (pode secar o leite materno devido ao teor de tujona) e por pessoas com insuficiência renal severa ou epilepsia."
+  }
+]

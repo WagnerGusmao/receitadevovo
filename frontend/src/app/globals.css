@@ -1,0 +1,175 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* PALETA OFICIAL RECEITA DE VOVÓ - Baseada no Logo */
+  
+  /* Cores Primárias */
+  --sage: hsl(127, 14%, 49%);           /* #6B8E6F - Verde Principal */
+  --terra: hsl(3, 45%, 20%);            /* #4A1E1C - Marrom */
+  --dourado: hsl(31, 53%, 64%);         /* #D4A574 - Mostarda Suave */
+  
+  /* Cores Secundárias */
+  --folha: hsl(131, 18%, 58%);          /* #7FA786 - Verde Médio */
+  --terracota: hsl(15, 39%, 47%);       /* #A8614A - Terracota */
+  --creme: hsl(42, 42%, 93%);           /* #F5F1E8 - Creme */
+  
+  /* Neutros */
+  --bege-light: hsl(43, 54%, 97%);      /* #FAF8F3 - Bege Claro */
+  --bege: hsl(41, 29%, 87%);            /* #E8E2D5 - Bege Natural */
+  --marrom-suave: hsl(35, 32%, 41%);    /* #8B6F47 - Marrom Suave */
+  --marrom-dark: hsl(17, 47%, 12%);     /* #2C1810 - Marrom Escuro */
+  
+  /* Funcionais */
+  --success: hsl(125, 23%, 46%);        /* #5A8F5E - Verde Natural */
+  --warning: hsl(43, 74%, 49%);         /* #DAA520 - Mostarda */
+  --error: hsl(9, 51%, 46%);            /* #B34D3A - Terracota Escuro */
+  --info: hsl(175, 18%, 56%);           /* #7BA3A0 - Azul Natural */
+
+  /* ShadCN Theme Integration */
+  --background: var(--bege-light);
+  --foreground: var(--terra);
+  
+  --primary: var(--sage);
+  --primary-foreground: var(--bege-light);
+  
+  --secondary: var(--folha);
+  --secondary-foreground: var(--bege-light);
+  
+  --accent: var(--dourado);
+  --accent-foreground: var(--terra);
+  
+  --card: var(--creme);
+  --card-foreground: var(--terra);
+  
+  --popover: var(--creme);
+  --popover-foreground: var(--terra);
+  
+  --muted: var(--bege);
+  --muted-foreground: var(--marrom-suave);
+  
+  --destructive: var(--error);
+  --destructive-foreground: var(--bege-light);
+  
+  --border: color-mix(in srgb, var(--terra), transparent 85%);
+  --input: color-mix(in srgb, var(--terra), transparent 90%);
+  --ring: var(--sage);
+  
+  --radius-lg: 1rem;
+  --radius-md: calc(1rem - 2px);
+  --radius-sm: calc(1rem - 4px);
+  --radius: 0.75rem;
+}
+
+@theme inline {
+  /* Cores de Sistema */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+
+  /* Cores Personalizadas da Marca */
+  --color-sage: var(--sage);
+  --color-terra: var(--terra);
+  --color-dourado: var(--dourado);
+  --color-folha: var(--folha);
+  --color-terracota: var(--terracota);
+  --color-creme: var(--creme);
+  --color-bege-light: var(--bege-light);
+  --color-bege: var(--bege);
+  --color-marrom-suave: var(--marrom-suave);
+  --color-marrom-dark: var(--marrom-dark);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-error: var(--error);
+  --color-info: var(--info);
+
+  /* Fontes */
+  --font-inter: var(--font-inter);
+  --font-outfit: var(--font-outfit);
+  --font-heading: var(--font-outfit);
+  --font-sans: var(--font-inter);
+
+  /* Radius */
+  --radius-lg: var(--radius-lg);
+  --radius-md: var(--radius-md);
+  --radius-sm: var(--radius-sm);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+body {
+  font-family: var(--font-inter), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-outfit), sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.dark {
+  /* Dark Mode - Mantém identidade natural */
+  --background: hsl(17, 47%, 8%);        /* Marrom muito escuro */
+  --foreground: hsl(43, 54%, 95%);       /* Bege claro */
+  --card: hsl(17, 47%, 10%);
+  --card-foreground: hsl(43, 54%, 95%);
+  --popover: hsl(17, 47%, 10%);
+  --popover-foreground: hsl(43, 54%, 95%);
+  --primary: hsl(127, 14%, 55%);         /* Sage mais claro */
+  --primary-foreground: hsl(17, 47%, 8%);
+  --secondary: hsl(131, 18%, 45%);       /* Folha mais escuro */
+  --secondary-foreground: hsl(43, 54%, 95%);
+  --muted: hsl(35, 32%, 20%);
+  --muted-foreground: hsl(41, 29%, 70%);
+  --accent: hsl(31, 53%, 55%);           /* Dourado mais claro */
+  --accent-foreground: hsl(17, 47%, 8%);
+  --destructive: var(--error);
+  --destructive-foreground: hsl(43, 54%, 95%);
+  --border: hsl(35, 32%, 25%);
+  --input: hsl(35, 32%, 25%);
+  --ring: hsl(127, 14%, 55%);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/* Utilitário global para ocultar barras de rolagem */
+.scrollbar-none {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}

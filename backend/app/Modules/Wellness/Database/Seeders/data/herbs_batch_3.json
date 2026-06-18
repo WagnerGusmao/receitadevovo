@@ -1,0 +1,620 @@
+[
+  {
+    "name": "Agrião",
+    "scientific_name": "Nasturtium officinale",
+    "slug": "agriao",
+    "description": "O Agrião é uma planta herbácea semiaquática amplamente reconhecida pelo seu alto valor nutricional e pelas suas propriedades terapêuticas no trato respiratório. Rico em glicosinolatos, ferro, cálcio e vitaminas A e C, atua como um excelente expectorante e fluidificante, auxiliando na eliminação do muco bronquial e no combate à tosse e bronquites. Possui também ação diurética e depurativa, contribuindo para a eliminação de toxinas e a melhora da digestão.",
+    "how_to_use": "• Xarope Expectorante: Amasse um punhado de agrião fresco com mel ou calda de açúcar, filtre e tome colheradas ao longo do dia para acalmar a tosse.\n\n• Infusão Fortificante: Adicione 1 colher de sopa de folhas frescas em 1 xícara de água fervente. Abafe por 5 minutos, coe e consuma morno para auxiliar no trato respiratório.",
+    "bath_instructions": "• Banho de Purificação e Nutrição Energética: Ferva 1,5 litros de água. Ao desligar o fogo, acrescente um punhado generoso de agrião fresco. Abafe por 10 minutos, coe e deixe atingir uma temperatura morna confortável. Despeje do pescoço para baixo após o banho habitual, mentalizando a renovação celular, a desintoxicação de energias estagnadas e o preenchimento de sua aura com vitalidade e frescor.",
+    "incense_usage": "• Defumação de Purificação e Renovação do Ar: Queime folhas de agrião desidratadas sobre brasa de carvão. A fumaça picante purifica o ar de agentes patógenos e ajuda a dispersar energias de letargia física, renovando o ânimo do ambiente doméstico.",
+    "image_path": "/images/herbs/agriao.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Monografias de Plantas Medicinais da OMS",
+    "benefits": [
+      "expectorante",
+      "respiratorio",
+      "diuretico",
+      "imunidade"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Agrião-d'Água, Agrião-da-Fonte",
+    "contraindications": "Contraindicado em pessoas com úlceras gástricas ativas, inflamações renais agudas e hipotireoidismo severo."
+  },
+  {
+    "name": "Angélica",
+    "scientific_name": "Angelica archangelica",
+    "slug": "angelica",
+    "description": "A Angélica é uma planta imponente de aroma penetrante e agradável, célebre por suas virtudes digestivas, carminativas e espasmolíticas. Seus compostos amargos e óleos essenciais estimulam as secreções gástricas, auxiliando no tratamento de dispepsias, flatulência e cólicas gastrointestinais. Além disso, é tradicionalmente valorizada por sua capacidade de reduzir o estresse mental, atuando como um relaxante do sistema nervoso.",
+    "how_to_use": "• Infusão Digestiva e Nervosa: Coloque 1 colher de chá de raízes secas picadas ou sementes de angélica em 1 xícara de água fervendo. Abafe por 10 minutos, coe e consuma após as refeições para regular o estômago.",
+    "bath_instructions": "• Banho de Proteção Espiritual e Centramento: Ferva 2 litros de água com 2 colheres de sopa de raízes secas de angélica por 5 minutos. Abafe por 10 minutos, coe e deixe amornar. Jogue do pescoço para baixo, visualizando uma luz dourada angelical selando seu campo energético, promovendo segurança psíquica, força interna e serenidade absoluta.",
+    "incense_usage": "• Defumação de Limpeza Áurica e Conexão Superior: Queime raízes de angélica secas trituradas em brasa. A fumaça aromática e balsâmica atua dissipando pesadelos, purificando ambientes de cargas psíquicas negativas e facilitando estados meditativos profundos.",
+    "image_path": "/images/herbs/angelica.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Europeia & Tratado de Fitoterapia Clínica da Comissão E Alemã",
+    "benefits": [
+      "digestao",
+      "relaxamento",
+      "ansiedade",
+      "calmante"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse",
+      "tristeza"
+    ],
+    "aliases": "Angélica-Oficial, Erva-do-Espírito-Santo",
+    "contraindications": "Causa fotossensibilidade (evitar exposição solar intensa após tomar). Contraindicado na gravidez e por pessoas com diabetes."
+  },
+  {
+    "name": "Borragem",
+    "scientific_name": "Borago officinalis",
+    "slug": "borragem",
+    "description": "A Borragem destaca-se na fitoterapia pelas suas excelentes propriedades emolientes, diaforéticas e reguladoras hormonais. O óleo extraído de suas sementes é extremamente rico em ácido gama-linolênico (GLA), um ácido graxo essencial crucial para combater processos inflamatórios cutâneos e aliviar sintomas de TPM e menopausa. Suas folhas e flores secas também auxiliam na redução da retenção de líquidos e na eliminação de toxinas pela transpiração em episódios febris.",
+    "how_to_use": "• Infusão Depurativa e Reguladora: Coloque 1 colher de sopa de folhas e flores secas de borragem em 1 xícara de água fervente. Abafe por 8 minutos, coe e consuma duas vezes ao dia para reduzir o inchaço e modular o sistema endócrino.",
+    "bath_instructions": "• Banho de Suavização Cutânea e Autoacolhimento: Ferva 1,5 litros de água, desligue e adicione 3 colheres de sopa de borragem. Mantenha abafado por 15 minutos, coe e aguarde amornar. Despeje lentamente sobre o corpo, visualizando a maciez física e a dissolução de rigidezes emocionais, permitindo que o amor-próprio floresça.",
+    "incense_usage": "• Defumação de Alegria e Leveza da Alma: Queime flores e folhas secas de borragem. A fumaça suave acalma corações aflitos, afasta a melancolia e restabelece a harmonia no lar, promovendo coragem e otimismo para novos começos.",
+    "image_path": "/images/herbs/borragem.png",
+    "source_type": "integrative",
+    "sources": "Monografias de Plantas Medicinais da Agência Europeia de Medicamentos (EMA) & Farmacopeia Brasileira",
+    "benefits": [
+      "pele",
+      "tpm",
+      "menopausa",
+      "diuretico",
+      "anti-inflamatorio",
+      "hormonal"
+    ],
+    "emotions": [
+      "tristeza",
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Folha-de-Estrela, Borragem-Oficial",
+    "contraindications": "As sementes são seguras, mas o chá das folhas não deve ser consumido de forma contínua por conter traços de alcaloides prejudiciais ao fígado."
+  },
+  {
+    "name": "Carobinha",
+    "scientific_name": "Jacaranda caroba",
+    "slug": "carobinha",
+    "description": "A Carobinha é uma planta nativa do cerrado e florestas brasileiras, grandemente valorizada por sua extraordinária ação depurativa do sangue, cicatrizante e antirreumática. Seus princípios ativos atuam de forma notável auxiliando o fígado e rins a eliminar toxinas metabólicas, sendo muito eficaz no tratamento de dermatoses como psoríase, eczemas e sífilis secundária. Também atua no alívio de dores nas articulações provocadas por gota e reumatismo.",
+    "how_to_use": "• Decocção Purificadora e Cicatrizante: Ferva 1 colher de sopa de folhas de carobinha em 1 xícara de água por 5 minutos. Abafe por 10 minutos, coe e tome de preferência em jejum pela manhã para potencializar a ação depurativa.",
+    "bath_instructions": "• Banho de Limpeza Celular e Descarrego de Impurezas: Ferva 2 litros de água com 3 colheres de sopa de folhas de carobinha por 3 minutos. Abafe por 10 minutos, coe e misture com água fria até ficar morno. Despeje lentamente do pescoço para baixo, mentalizando a cura das inflamações do corpo físico e a purificação de sua aura.",
+    "incense_usage": "• Defumação de Filtro e Banimento de Cargas Densas: Queime folhas secas de carobinha. A fumaça terrosa atua como um desintegrador de pensamentos obsessivos e fluidos astrais estagnados no ambiente de convivência diária.",
+    "image_path": "/images/herbs/carobinha.png",
+    "source_type": "integrative",
+    "sources": "Formulário de Fitoterapêuticos da Farmacopeia Brasileira & Manual de Plantas Medicinais do Cerrado",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "pele",
+      "cicatrizante",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Jacarandá, Caroba-do-Campo",
+    "contraindications": "Evitar o uso oral por gestantes, lactantes e pessoas com distúrbios gastroduodenais graves sem orientação médica."
+  },
+  {
+    "name": "Casca-de-Anta",
+    "scientific_name": "Drimys winteri",
+    "slug": "casca-de-anta",
+    "description": "A Casca-de-Anta, também conhecida como Cataia, é uma árvore nativa da Mata Atlântica cujas cascas são ricas em óleos essenciais, flavonoides e vitamina C. Possui potentes propriedades tônicas, estimulantes, antissépticas e digestivas, sendo historicamente utilizada no combate ao escorbuto, diarreias, dispepsias e dores de estômago. No trato respiratório, atua auxiliando o alívio de espasmos da asma e tosses catarrais.",
+    "how_to_use": "• Decocção Tônica e Estomacal: Ferva 1 colher de chá de cascas secas de casca-de-anta em 1 xícara de água por 10 minutos. Coe e tome morno 15 minutos antes das refeições principais para estimular as funções gástricas.",
+    "bath_instructions": "• Banho de Restauração Física e Vigor Energético: Ferva 1,5 litros de água com 2 colheres de sopa de cascas trituradas de casca-de-anta por 8 minutos. Deixe em infusão abafada até atingir uma temperatura agradável. Coe e despeje sobre o corpo físico, concentrando-se na revitalização dos seus músculos, ossos e no despertar da sua resiliência ancestral.",
+    "incense_usage": "• Defumação de Fortalecimento e Proteção da Saúde: Queime cascas secas picadas sobre carvão. A fumaça aromática, picante e amadeirada purifica o ambiente contra miasmas de convalescença, preenchendo a casa com uma atmosfera vigorosa e protetora.",
+    "image_path": "/images/herbs/casca-de-anta.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 1) & Manual de Fitoterapia Prática do SUS",
+    "benefits": [
+      "digestao",
+      "respiratorio",
+      "anti-inflamatorio",
+      "energia"
+    ],
+    "emotions": [
+      "cansaco",
+      "tristeza"
+    ],
+    "aliases": "Cataia, Winteriana",
+    "contraindications": "Evitar o uso por pessoas com estômago excessivamente sensível, pois pode provocar náuseas e vômitos se consumido em jejum."
+  },
+  {
+    "name": "Cipó-Cabeludo",
+    "scientific_name": "Mikania hirsutissima",
+    "slug": "cipo-cabeludo",
+    "description": "O Cipó-Cabeludo é uma trepadeira brasileira altamente consagrada na medicina popular por sua notável ação diurética, anti-inflamatória e analgésica no sistema urinário. É amplamente empregado no tratamento de cálculos renais, cistites, uretrites e prostatites, ajudando a dissolver e eliminar sedimentos urinários de forma eficaz. Suas propriedades antirreumáticas também trazem alívio significativo a dores articulares e gota.",
+    "how_to_use": "• Infusão Diurética e Antisséptica: Coloque 1 colher de sopa de folhas e ramos picados de cipó-cabeludo em 1 xícara de água fervente. Abafe por 10 minutos, coe e beba morno 2 a 3 vezes ao dia.",
+    "bath_instructions": "• Banho de Desobstrução de Canais e Alívio de Dores: Ferva 2 litros de água com 3 colheres de sopa de cipó-cabeludo seco por 3 minutos. Abafe por 12 minutos, coe e deixe amornar. Despeje lentamente nas costas e quadris, mentalizando o alívio das tensões físicas acumuladas e a fluidez das águas no seu corpo.",
+    "incense_usage": "• Defumação de Dissolução de Bloqueios e Padrões Rígidos: Queime ramos secos e desidratados de cipó-cabeludo. A fumaça suave atua quebrando energias de estagnação mental e ressentimentos que impedem o livre curso das decisões cotidianas dos moradores.",
+    "image_path": "/images/herbs/cipo-cabeludo.png",
+    "source_type": "integrative",
+    "sources": "Formulário de Fitoterapêuticos da Farmacopeia Brasileira & Estudos Clínicos sobre Plantas do Cerrado",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Guaco-Cabeludo, Micania-Lanosa",
+    "contraindications": "Evitar o uso contínuo sem pausas e por pessoas com distúrbios da coagulação sanguínea."
+  },
+  {
+    "name": "Cipó-Cravo",
+    "scientific_name": "Tynanthus fasciculatus",
+    "slug": "cipo-cravo",
+    "description": "O Cipó-Cravo é uma trepadeira amazônica famosa por seu delicioso aroma canforado-adocicado que lembra o cravo-da-índia. Possui excelentes propriedades tônicas, estimulantes, carminativas e afrodisíacas, sendo muito utilizado no combate à fadiga física e mental extrema, dores de estômago, gases e fraqueza geral. Suas propriedades analgésicas também ajudam no alívio de dores de dente, musculares e reumáticas.",
+    "how_to_use": "• Decocção Estimulante e Digestiva: Ferva 1 colher de sopa de pedaços de cipó-cravo em 1 xícara de água por 5 a 10 minutos. Coe e tome morno para combater a má digestão ou reidratar os sentidos cansados.",
+    "bath_instructions": "• Banho de Ativação do Vigor e Magnetismo Pessoal: Ferva 2 litros de água com 3 colheres de sopa de cipó-cravo picado por 5 minutos. Abafe por 10 minutos, coe e deixe amornar. Jogue do pescoço para baixo após o banho higiênico, visualizando a ativação do seu magnetismo, vitalidade e energia de realização.",
+    "incense_usage": "• Defumação de Acolhimento Aromático e Vitalidade: Queime pedaços secos triturados de cipó-cravo sobre brasa. A fumaça exala um aroma aquecedor que dissipa a apatia coletiva no ambiente, estimulando a criatividade e a autoconfiança de todos.",
+    "image_path": "/images/herbs/cipo-cravo.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Popular Brasileira & Estudos Etnobotânicos da Flora Amazônica",
+    "benefits": [
+      "energia",
+      "digestao",
+      "dor"
+    ],
+    "emotions": [
+      "cansaco",
+      "alegria",
+      "estresse"
+    ],
+    "aliases": "Cipó-Trindade, Cravo-de-Cipó",
+    "contraindications": "Evitar o uso por gestantes devido ao seu efeito levemente estimulante sobre a musculatura lisa do útero."
+  },
+  {
+    "name": "Cipó-Prata",
+    "scientific_name": "Banisteriopsis argyrophylla",
+    "slug": "cipo-prata",
+    "description": "O Cipó-Prata é uma planta da flora brasileira amplamente consagrada por sua excelente ação diurética, anti-inflamatória e protetora das vias urinárias. É extremamente eficaz para auxiliar na eliminação de cristais e cálculos renais, aliviar dores decorrentes de cólicas renais e tratar inflamações na bexiga. Auxilia também no controle do ácido úrico elevado e na redução do inchaço nas pernas.",
+    "how_to_use": "• Infusão Renal e Diurética: Coloque 1 colher de sopa de cipó-prata seco em 1 xícara de água fervendo. Abafe por 10 minutos, coe e beba morno ao longo do dia para estimular o bom funcionamento dos rins.",
+    "bath_instructions": "• Banho de Clareza e Purificação Cristalina: Ferva 1,5 litros de água. Apague o fogo e junte 3 colheres de sopa de cipó-prata seco. Abafe, coe e deixe amornar. Despeje lentamente sobre o corpo, visualizando suas energias físicas e sutis se tornando limpas, cristalinas e livres de detritos energéticos.",
+    "incense_usage": "• Defumação de Purificação Áurica e Clareza Mental: Queime folhas e ramos secos de cipó-prata. A fumaça leve limpa o campo mental do lar, propiciando um clima de serenidade ideal para focar nos estudos ou no trabalho com clareza.",
+    "image_path": "/images/herbs/cipo-prata.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico do Farmacêutico Brasileiro & Estudos das Plantas Medicinais do Planalto Central",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Cipó-Branco, Prateada",
+    "contraindications": "Evitar o uso por indivíduos hipertensos sem acompanhamento médico, por sua forte ação diurética."
+  },
+  {
+    "name": "Erva-de-Bicho",
+    "scientific_name": "Polygonum hydropiper",
+    "slug": "erva-de-bicho",
+    "description": "A Erva-de-Bicho é uma planta de notável ação hemostática, cicatrizante e anti-inflamatória, amplamente consagrada na medicina popular para o tratamento de hemorroidas e varizes. Seus compostos ativos atuam de forma extraordinária fortalecendo a parede dos vasos sanguíneos, aumentando a resistência capilar e promovendo o alívio rápido de sangramentos e dores. Também apresenta eficácia na cicatrização de feridas na pele.",
+    "how_to_use": "• Infusão Circulatória e Hemostática: Adicione 1 colher de sobremesa de folhas secas de erva-de-bicho em 1 xícara de água fervente. Abafe por 10 minutos, coe e beba de preferência morno.\n\n• Banho de Assento para Hemorroidas: Prepare uma infusão concentrada com 3 colheres de sopa de erva-de-bicho em 1 litro de água fervente, coe, deixe amornar e realize banhos de assento diários.",
+    "bath_instructions": "• Banho de Fortalecimento Vascular e Fechamento Áurico: Ferva 2 litros de água. Desligue e junte 3 colheres de sopa de erva-de-bicho. Abafe, coe e aguarde a temperatura corporal. Derrame do pescoço para baixo mentalizando o fortalecimento dos seus canais de energia e a cicatrização de suas dores internas.",
+    "incense_usage": "• Defumação de Banimento de Energias Parasitas: Queime folhas secas de erva-de-bicho em brasa. O aroma herbáceo pungente desintegra formas-pensamento parasitárias e purifica profundamente o ambiente de larvas astrais.",
+    "image_path": "/images/herbs/erva-de-bicho.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Farmacopeia Brasileira (Ed. 5)",
+    "benefits": [
+      "circulacao",
+      "cicatrizante",
+      "anti-inflamatorio",
+      "dor",
+      "pele"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Persicária, Pimenta-d'Água, Pimenta-do-Brejo",
+    "contraindications": "Totalmente contraindicada para gestantes (estimula o fluxo menstrual e contrações uterinas). Pode causar irritação urinária."
+  },
+  {
+    "name": "Erva-de-Santa-Luzia",
+    "scientific_name": "Commelina erecta",
+    "slug": "erva-de-santa-luzia",
+    "description": "A Erva-de-Santa-Luzia é uma pequena planta de delicadas flores azuis, altamente prestigiada na medicina tradicional por suas propriedades antissépticas, anti-inflamatórias e cicatrizantes. Seu suco ou chá concentrado é historicamente utilizado para lavar olhos cansados, irritados ou inflamados em casos de conjuntivite. Na pele, atua auxiliando na cicatrização de eczemas, feridas superficiais e pequenas queimaduras de forma muito suave.",
+    "how_to_use": "• Infusão Calmante e Cicatrizante: Coloque 1 colher de sobremesa de folhas e flores de erva-de-santa-luzia em 1 xícara de água fervendo. Abafe por 10 minutos, coe com filtro de papel e utilize morno para compressas externas na pele ou lavagem suave das pálpebras.",
+    "bath_instructions": "• Banho de Visão Clara e Purificação da Alma: Ferva 1,5 litros de água, desligue e adicione 3 colheres de sopa da erva com flores. Abafe por 10 minutos, coe e espere amornar. Derrame sobre o corpo mentalizando a abertura da sua visão interior, clarividência emocional e a dissolução de ilusões dolorosas.",
+    "incense_usage": "• Defumação de Iluminação e Paz Espiritual: Queime ramos secos e flores de erva-de-santa-luzia. A fumaça sutil ajuda a restaurar a harmonia e a clareza mental do ambiente doméstico, dissipando névoas mentais causadas por brigas.",
+    "image_path": "/images/herbs/erva-de-santa-luzia.png",
+    "source_type": "integrative",
+    "sources": "Fitoterapia Popular no Brasil & Manual de Identificação de Plantas Medicinais Brasileiras",
+    "benefits": [
+      "anti-inflamatorio",
+      "cicatrizante",
+      "pele",
+      "calmante"
+    ],
+    "emotions": [
+      "tristeza",
+      "ansiedade"
+    ],
+    "aliases": "Trapoeraba, Commelina",
+    "contraindications": "Geralmente muito segura. Evitar o uso por pessoas com hipersensibilidade conhecida à planta."
+  },
+  {
+    "name": "Guaçatonga",
+    "scientific_name": "Casearia sylvestris",
+    "slug": "guacatonga",
+    "description": "A Guaçatonga é um arbusto nativo do Brasil, célebre por suas extraordinárias propriedades cicatrizantes, antiulcerogênicas, antissépticas e analgésicas. Seus compostos químicos atuam inibindo a secreção de ácido clorídrico no estômago, cicatrizando úlceras gástricas com eficácia comparável a medicamentos tradicionais. Na pele, é uma das melhores aliadas contra o herpes labial, aftas e feridas difíceis.",
+    "how_to_use": "• Chá Protetor Gástrico: Ferva 1 colher de sopa de folhas secas de guaçatonga em 1 xícara de água por 3 minutos. Abafe por 5 minutos, coe e beba morno de preferência 20 minutos antes das refeições principais.\n\n• Aplicação Tópica para Aftas ou Herpes: Prepare um chá concentrado de guaçatonga e aplique na lesão com um cotonete várias vezes ao dia.",
+    "bath_instructions": "• Banho de Proteção e Regeneração da Pele: Ferva 2 litros de água e desligue o fogo. Adicione 3 colheres de sopa de guaçatonga seca. Deixe abafado por 15 minutos, coe e aguarde amornar. Derrame sobre o corpo visualizando uma película protetora regeneradora de luz verde-esmeralda envolvendo todo o seu corpo.",
+    "incense_usage": "• Defumação de Escudo Protetor e Banimento: Queime folhas secas de guaçatonga em brasa. A fumaça aromática cria uma barreira protetora contra intrusões energéticas no lar, repelindo vibrações de inveja e cobiça.",
+    "image_path": "/images/herbs/guacatonga.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Monografia de Plantas Medicinais da ANVISA",
+    "benefits": [
+      "cicatrizante",
+      "digestao",
+      "pele",
+      "anti-inflamatorio",
+      "dor"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Guaçatunga, Erva-de-Bugre, Chá-de-Bugre",
+    "contraindications": "Muito segura. Evitar o uso terapêutico oral por mulheres grávidas sem acompanhamento profissional."
+  },
+  {
+    "name": "Ipê-Amarelo",
+    "scientific_name": "Handroanthus albus",
+    "slug": "ipe-amarelo",
+    "description": "O Ipê-Amarelo é uma das árvores mais icônicas da flora brasileira, cujas cascas e flores possuem reconhecidas ações imunoestimulantes, depurativas e anti-inflamatórias. Suas cascas contêm substâncias que ativam a resposta imunológica celular, auxiliando na defesa do organismo contra vírus e bactérias. É tradicionalmente utilizado no combate a febres, resfriados e no reequilíbrio geral do organismo.",
+    "how_to_use": "• Decocção Fortalecedora: Ferva 1 colher de chá de cascas secas picadas de ipê-amarelo em 1 xícara de água por 10 minutos. Coe e tome morno pela manhã, durante períodos de mudanças de temperatura para proteger a imunidade.",
+    "bath_instructions": "• Banho de Luz, Prosperidade e Renovação Vital: Ferva 2 litros de água com 3 colheres de sopa de cascas de ipê-amarelo por 8 minutos. Adicione algumas flores amarelas se tiver disponíveis. Coe e espere ficar morno. Derrame lentamente do pescoço para baixo mentalizando a atração de luz solar, vitalidade dourada, abertura de caminhos e abundância plena.",
+    "incense_usage": "• Defumação de Atração de Luz e Otimismo: Queime cascas e flores secas trituradas de ipê-amarelo. A fumaça amadeirada e suave dissipa pensamentos de depressão e melancolia do lar, preenchendo o ambiente com a vibração da alegria e do sucesso.",
+    "image_path": "/images/herbs/ipe-amarelo.png",
+    "source_type": "integrative",
+    "sources": "Estudos Clínicos da Flora Nativa Brasileira & Manual de Fitoterapia e Plantas Medicinais do SUS",
+    "benefits": [
+      "imunidade",
+      "anti-inflamatorio",
+      "cicatrizante"
+    ],
+    "emotions": [
+      "tristeza",
+      "cansaco",
+      "alegria"
+    ],
+    "aliases": "Pau-d'Arco-Amarelo, Ipê",
+    "contraindications": "Evitar o uso concomitante com medicamentos anticoagulantes. Contraindicado durante a gestação."
+  },
+  {
+    "name": "Jarrinha",
+    "scientific_name": "Aristolochia galeata",
+    "slug": "jarrinha",
+    "description": "A Jarrinha é uma trepadeira de flores de formato singular, conhecida popularmente por suas fortes ações diuréticas, antiespasmódicas e depurativas na medicina popular. É tradicionalmente empregada para acalmar cólicas intestinais, estimular a transpiração em casos de febres e resfriados e auxiliar no alívio de sintomas de asma e tosses. Deve ser usada com extremo critério e moderação, preferencialmente sob orientação terapêutica.",
+    "how_to_use": "• Infusão Controlada (Uso Moderado): Adicione no máximo 1 colher de café rasa de folhas secas de jarrinha em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma morno, limitando o consumo a apenas 1 xícara ao dia.",
+    "bath_instructions": "• Banho de Proteção Espiritual e Quebra de Demandas: Ferva 1,5 litros de água com 1 colher de sopa de jarrinha seca por 3 minutos. Abafe, coe e espere ficar morno. Jogue do pescoço para baixo concentrando-se no desfazimento de nós energéticos que amarram seus caminhos profissionais e amorosos.",
+    "incense_usage": "• Defumação de Descarrego e Banimento de Cargas Pesadas: Queime folhas secas de jarrinha em brasa. A fumaça densa é excelente para purificar o ambiente doméstico de influências astrais negativas duradouras ou após períodos de discussões pesadas.",
+    "image_path": "/images/herbs/jarrinha.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 1) & Estudos Científicos sobre Aristolochiaceae na Flora Brasileira",
+    "benefits": [
+      "diuretico",
+      "dor",
+      "respiratorio"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Cipó-Milhomens, Aristolóquia",
+    "contraindications": "Contém ácido aristolóquico, que é nefrotóxico e cancerígeno se consumido em doses concentradas e uso contínuo. Usar com extrema cautela e sob supervisão."
+  },
+  {
+    "name": "Juá",
+    "scientific_name": "Solanum viarum",
+    "slug": "jua",
+    "description": "O Juá é um arbusto espinhoso da caatinga brasileira, cujas cascas e frutos são extremamente ricos em saponinas naturais, conferindo-lhe uma notável ação detergente, antisséptica e anti-inflamatória. É consagrado na higiene natural para limpeza bucal, prevenção de cáries e gengivite, além de ser empregado na limpeza profunda do couro cabeludo contra caspa e queda.",
+    "how_to_use": "• Pó Dental de Juá: Triture as cascas secas de juá até virar um pó muito fino. Utilize este pó para escovar os dentes 1 a 2 vezes por semana para limpeza profunda e saúde das gengivas.\n\n• Decocção Capilar Anticaspa: Ferva 2 colheres de sopa de cascas em 500ml de água por 10 minutos. Deixe esfriar, coe e aplique no couro cabeludo após a lavagem habitual.",
+    "bath_instructions": "• Banho de Limpeza Profunda e Banimento de Miopias Mentais: Ferva 2 litros de água com 3 colheres de sopa de cascas de juá por 8 minutos. Espere amornar, coe e despeje sobre o corpo físico. Mentalize a remoção de todas as crostas energéticas de autossabotagem e a regeneração de sua autoestima e pureza interior.",
+    "incense_usage": "• Defumação de Purificação Severa e Banimento: Queime pedaços de casca de juá desidratados. A fumaça áspera e purificadora corta cordões energéticos negativos no ambiente de trabalho ou no lar, restabelecendo a neutralidade espiritual.",
+    "image_path": "/images/herbs/jua.png",
+    "source_type": "integrative",
+    "sources": "Manual de Fitoterapia do Semiárido & Formulário de Fitoterapêuticos da Farmacopeia Brasileira",
+    "benefits": [
+      "anti-inflamatorio",
+      "pele",
+      "antibacteriano"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Juazeiro, Laranjinha-de-Vaqueiro",
+    "contraindications": "As cascas são ricas em saponinas. Evitar o uso oral por crianças e gestantes. O uso externo como higienizante capilar e bucal é extremamente seguro."
+  },
+  {
+    "name": "Laranja-Azeda",
+    "scientific_name": "Citrus aurantium",
+    "slug": "laranja-azeda",
+    "description": "As flores e cascas de Laranja-Azeda são excepcionalmente ricas em óleos essenciais (como o neroli) e compostos termogênicos como a sinefrina. Atua no sistema nervoso promovendo um relaxamento suave que combate a insônia, estresse severo e palpitações de origem nervosa. Simultaneamente, suas cascas auxiliam no processo de queima de gorduras, controle do apetite excessivo e melhora das funções digestivas e diuréticas.",
+    "how_to_use": "• Infusão Relaxante e Digestiva: Adicione 1 colher de chá de flores de laranja-azeda desidratadas em 1 xícara de água fervente. Abafe por 8 minutos, coe e consuma à noite para induzir o repouso.\n\n• Chá Termogênico de Cascas: Ferva 1 colher de sopa de cascas secas em 200ml de água por 5 minutos antes das refeições principais para auxiliar na queima de gordura.",
+    "bath_instructions": "• Banho de Acalento, Doçura e Equilíbrio Emocional: Ferva 2 litros de água, desligue e adicione 3 colheres de sopa de flores ou cascas secas de laranja-azeda. Mantenha abafado por 10 minutos, coe e jogue morno do pescoço para baixo. Mentalize o derretimento do estresse do dia, preenchendo a mente com tranquilidade, doçura e equilíbrio restaurado.",
+    "incense_usage": "• Defumação de Paz, Prosperidade e Boa Convivência: Queime cascas secas de laranja-azeda e flores. A fumaça cítrica e aromática atrai a vibração da alegria, suaviza atritos familiares e perfuma deliciosamente o ambiente, preparando-o para o repouso seguro.",
+    "image_path": "/images/herbs/laranja-azeda.png",
+    "source_type": "integrative",
+    "sources": "Monografias de Plantas Medicinais da OMS & Formulário Fitoterápico Nacional do SUS",
+    "benefits": [
+      "relaxamento",
+      "sono",
+      "ansiedade",
+      "digestao",
+      "calmante",
+      "diuretico"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse",
+      "alegria"
+    ],
+    "aliases": "Laranja-da-Terra, Laranja-Amarga",
+    "contraindications": "Evitar o uso por hipertensos e cardíacos, pois contém sinefrina, que pode elevar a frequência cardíaca e a pressão arterial."
+  },
+  {
+    "name": "Lírio-do-Brejo",
+    "scientific_name": "Hedychium coronarium",
+    "slug": "lirio-do-brejo",
+    "description": "O Lírio-do-Brejo é uma planta semiaquática de flores brancas intensamente perfumadas, valorizada pelas suas marcantes propriedades calmantes, analgésicas, antirreumáticas e purificadoras. Seus óleos essenciais atuam suavemente no sistema nervoso, ajudando a diminuir a ansiedade excessiva, aliviar dores de cabeça tensionais e dores nas articulações. Também possui excelente ação protetora respiratória e cicatrizante na pele.",
+    "how_to_use": "• Infusão Calmante e Perfumada: Adicione 1 colher de chá de pétalas secas de lírio-do-brejo em 1 xícara de água fervente. Abafe por 8 minutos, coe e tome à tarde para desacelerar o ritmo de trabalho.\n\n• Inalação de Vapor Vias Aéreas: Despeje pétalas frescas em água fervente e inale o vapor para aliviar a tensão nasal.",
+    "bath_instructions": "• Banho de Purificação Áurica, Delicadeza e Paz: Ferva 1,5 litros de água, desligue e acrescente pétalas secas ou frescas de lírio-do-brejo. Abafe por 10 minutos, coe e espere atingir a temperatura corporal. Derrame lentamente do pescoço para baixo após o banho higiênico, mentalizando o recolhimento suave de sua mente e o equilíbrio espiritual restaurado.",
+    "incense_usage": "• Defumação de Harmonia Familiar e Elevação Vibracional: Queime pétalas e raízes desidratadas de lírio-do-brejo sobre carvão. A fumaça floral e adocicada harmoniza as energias domésticas, afasta a desavença conjugal e promove um ambiente propício para a paz interior.",
+    "image_path": "/images/herbs/lirio-do-brejo.png",
+    "source_type": "integrative",
+    "sources": "Manual de Fitoterapia Tradicional Brasileira & Estudos Fitoquímicos sobre Plantas Semiaquáticas",
+    "benefits": [
+      "relaxamento",
+      "calmante",
+      "ansiedade",
+      "dor",
+      "respiratorio"
+    ],
+    "emotions": [
+      "ansiedade",
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Jasmim-Borboleta, Borboleta",
+    "contraindications": "Muito seguro, porém o chá das raízes deve ser evitado por gestantes devido à carência de estudos toxicológicos na gravidez."
+  },
+  {
+    "name": "Marapuama",
+    "scientific_name": "Ptychopetalum olacoides",
+    "slug": "marapuama",
+    "description": "A Marapuama é uma planta nativa da floresta amazônica, celebrada mundialmente como um dos mais potentes tônicos neuromusculares, estimulantes do sistema nervoso e afrodisíacos naturais. Seus alcaloides e fitoesteróis auxiliam no combate ao esgotamento físico e mental crônico, melhoram consideravelmente a memória e a concentração, equilibram o sistema hormonal e combatem problemas de impotência.",
+    "how_to_use": "• Decocção Revigorante e Cognitiva: Ferva 1 colher de sopa de cascas picadas de marapuama em 1 xícara de água por 15 minutos. Coe e consuma morno de manhã para obter vitalidade duradoura e foco ao longo do dia de trabalho.",
+    "bath_instructions": "• Banho de Ativação Energética e Fogo Vital: Ferva 2 litros de água com 2 colheres de sopa de cascas de marapuama por 10 minutos. Espere amornar, coe e derrame do pescoço para baixo após o banho habitual. Mentalize a recuperação de todo o seu vigor físico, poder de foco e a ativação de sua chama interna realizadora.",
+    "incense_usage": "• Defumação de Iniciativa, Coragem e Dinamismo: Queime cascas secas trituradas de marapuama sobre carvão em brasa. A fumaça densa e terrosa elimina o desânimo, a procrastinação e a apatia coletiva no ambiente doméstico ou profissional.",
+    "image_path": "/images/herbs/marapuama.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Brasileira (Ed. 2) & Monografia Científica de Plantas Amazônicas da ANVISA",
+    "benefits": [
+      "energia",
+      "foco",
+      "memoria",
+      "hormonal"
+    ],
+    "emotions": [
+      "cansaco",
+      "tristeza",
+      "estresse"
+    ],
+    "aliases": "Muira-Puama, Madeira-da-Potência",
+    "contraindications": "Contraindicado em pessoas com hipertensão arterial descontrolada, ansiedade severa e insônia persistente."
+  },
+  {
+    "name": "Mil-Folhas",
+    "scientific_name": "Achillea millefolium",
+    "slug": "mil-folhas",
+    "description": "A Mil-Folhas é uma planta medicinal versátil com renomadas ações adstringentes, cicatrizantes, hemostáticas, antiespasmódicas e digestivas. É extremamente benéfica para regular o ciclo menstrual, diminuindo as cólicas dolorosas e controlando sangramentos excessivos devido às suas propriedades moduladoras do sistema circulatório. Também protege o fígado e estômago, aliviando dispepsias e febres devido à sua ação sudorífica.",
+    "how_to_use": "• Infusão Digestiva e Reguladora Menstrual: Coloque 1 colher de sobremesa de folhas secas de mil-folhas em 1 xícara de água fervendo. Abafe por 10 minutos, coe e beba morno, preferencialmente antes das refeições principais ou durante o ciclo menstrual.",
+    "bath_instructions": "• Banho de Proteção Áurica e Fechamento de Ciclos: Ferva 2 litros de água com 3 colheres de sopa de mil-folhas por 3 minutos. Coe, aguarde a temperatura corporal e jogue lentamente do pescoço para baixo. Mentalize o fechamento de brechas no seu campo áurico e a cura de feridas do passado.",
+    "incense_usage": "• Defumação de Corte de Energias Negativas e Proteção: Queime folhas e flores secas de mil-folhas. A fumaça herbal cria uma forte barreira protetora que corta invejas, ciúmes e afasta discórdias do ambiente familiar.",
+    "image_path": "/images/herbs/mil-folhas.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Monografias da Agência Europeia de Medicamentos (EMA)",
+    "benefits": [
+      "tpm",
+      "cicatrizante",
+      "circulacao",
+      "anti-inflamatorio",
+      "digestao",
+      "dor",
+      "hormonal"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade",
+      "tristeza"
+    ],
+    "aliases": "Mil-em-Rama, Aquileia, Novalgina-Natural",
+    "contraindications": "Contraindicado para gestantes (estimulante uterina e abortiva) e pessoas alérgicas a plantas da família Asteraceae."
+  },
+  {
+    "name": "Parietária",
+    "scientific_name": "Parietaria officinalis",
+    "slug": "parietaria",
+    "description": "A Parietária, historicamente apelidada de 'erva-das-muralhas', é amplamente reverenciada por sua poderosa ação diurética, depurativa e anti-inflamatória no sistema urinário. Ela estimula suavemente o funcionamento renal, facilitando a dissolução de cálculos nos rins, combatendo infecções urinárias e aliviando edemas causados por retenção hídrica. Na pele, possui excelente ação cicatrizante e calmante sobre feridas e eczemas.",
+    "how_to_use": "• Infusão Diurética e Renal: Coloque 1 colher de sopa de folhas secas de parietária em 1 xícara de água fervente. Abafe por 10 minutos, coe e tome de 2 a 3 vezes ao dia para incentivar a eliminação de toxinas urinárias.",
+    "bath_instructions": "• Banho de Fluidez, Renovação e Desintoxicação Renal: Ferva 1,5 litros de água. Ao apagar o fogo, junte 3 colheres de sopa de parietária seca. Abafe, coe e deixe amornar. Banhe-se do pescoço para baixo mentalizando o livre fluxo dos sentimentos e a purificação total dos seus líquidos biológicos.",
+    "incense_usage": "• Defumação de Fluidez e Liberação de Obstáculos: Queime folhas secas desidratadas de parietária. A fumaça suave desfaz bloqueios energéticos nas estruturas de convivência, trazendo um clima de maior adaptabilidade e renovação.",
+    "image_path": "/images/herbs/parietaria.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Europeia & Tratados Tradicionais de Fitoterapia Europeia",
+    "benefits": [
+      "diuretico",
+      "anti-inflamatorio",
+      "cicatrizante",
+      "pele"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Erva-de-Nossa-Senhora, Alfaca-de-Cobra",
+    "contraindications": "Contraindicado para pessoas com alergias severas ao pólen. Evitar o uso na gravidez."
+  },
+  {
+    "name": "Pêssego-do-mato",
+    "scientific_name": "Prunus myrtifolia",
+    "slug": "pessego-do-mato",
+    "description": "O Pêssego-do-mato é uma espécie arbórea nativa do Brasil cujas cascas e folhas são tradicionalmente valorizadas por suas potentes propriedades adstringentes, antiespasmódicas e respiratórias. Seus princípios ativos atuam de forma extraordinária acalmando espasmos da tosse e auxiliando na expectoração de secreções bronquiais em gripes e bronquites crônicas. Também possui ação tônica digestiva e antisséptica suave.",
+    "how_to_use": "• Decocção Expectorante e Calmante da Tosse: Ferva 1 colher de chá de cascas secas picadas de pêssego-do-mato em 1 xícara de água por 8 minutos. Abafe por 5 minutos, coe e consuma morno adoçado com mel para potencializar a ação bronquial.",
+    "bath_instructions": "• Banho de Desobstrução Respiratória e Acalento Físico: Ferva 2 litros de água com 2 colheres de sopa de folhas secas de pêssego-do-mato por 3 minutos. Abafe por 10 minutos, coe e deixe morno. Derrame lentamente nos ombros e peito, mentalizando a cura das vias respiratórias e o conforto físico total.",
+    "incense_usage": "• Defumação de Clareza e Purificação do Ar: Queime ramos secos e folhas de pêssego-do-mato. A fumaça sutil limpa o ar de vírus e bactérias físicas e ajuda a dissipar energias pesadas de desânimo coletivo no lar, trazendo leveza e facilidade de convívio.",
+    "image_path": "/images/herbs/pessego-do-mato.png",
+    "source_type": "integrative",
+    "sources": "Manual de Fitoterapia e Flora Nativa Brasileira & Farmacopeia Popular Brasileira",
+    "benefits": [
+      "expectorante",
+      "respiratorio",
+      "digestao"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Prunus, Pêssego-Silvestre",
+    "contraindications": "Evitar o consumo das folhas e sementes sem processamento térmico adequado, pois podem conter glicosídeos cianogênicos."
+  },
+  {
+    "name": "Piri-Piri",
+    "scientific_name": "Cyperus articulatus",
+    "slug": "piri-piri",
+    "description": "O Piri-Piri, conhecido também como Pripioca, é uma planta amazônica cujos rizomas exalam um perfume terroso e picante altamente terapêutico. Possui excelentes propriedades tônicas, calmantes, digestivas e carminativas, atuando com sucesso na regulação gástrica, no alívio de náuseas, gases intestinais e dores de cabeça tensionais. Na aromaterapia tradicional, é reverenciado por acalmar mentes hiperativas e promover equilíbrio.",
+    "how_to_use": "• Decocção Aromática e Digestiva: Ferva 1 colher de chá de rizomas triturados de piri-piri em 1 xícara de água por 10 minutos. Coe e consuma morno após refeições pesadas ou para aliviar enjoos de viagens.",
+    "bath_instructions": "• Banho de Aterramento, Proteção e Magnetismo Amazônico: Ferva 2 litros de água com 2 colheres de sopa de rizomas picados por 10 minutos. Deixe amornar, coe e derrame por todo o corpo. Mentalize sua conexão firme com a Terra, dissolução do estresse e aumento do seu magnetismo pessoal e autoconfiança.",
+    "incense_usage": "• Defumação de Limpeza Profunda e Aterramento Mental: Queime rizomas desidratados de pripioca ou piri-piri sobre brasa. A fumaça intensamente aromática e terrosa elimina ruídos e estresses mentais do ambiente, trazendo clareza, centramento e paz espiritual estável.",
+    "image_path": "/images/herbs/piri-piri.png",
+    "source_type": "integrative",
+    "sources": "Estudos Etnobotânicos da Flora Amazônica & Farmacopeia Homeopática Brasileira",
+    "benefits": [
+      "relaxamento",
+      "calmante",
+      "ansiedade",
+      "digestao",
+      "dor"
+    ],
+    "emotions": [
+      "ansiedade",
+      "estresse",
+      "cansaco"
+    ],
+    "aliases": "Junco-Cheiroso, Capim-Piri-Piri",
+    "contraindications": "Evitar o uso do óleo por gestantes e crianças sem supervisão profissional."
+  },
+  {
+    "name": "Sassafrás",
+    "scientific_name": "Sassafras albidum",
+    "slug": "sassafras",
+    "description": "O Sassafrás é uma árvore nativa da América do Norte célebre por seu marcante aroma adocicado e por suas excelentes ações depurativas, diaforéticas e analgésicas. Tradicionalmente, suas raízes e cascas estimulam a eliminação de toxinas do sangue através do suor e da urina, auxiliando no tratamento de reumatismos crônicos, gota e problemas de pele como acne e psoríase. Deve ser utilizado de forma cautelosa e em baixas concentrações.",
+    "how_to_use": "• Decocção Depurativa Controlada: Ferva 1 colher de café rasa de casca de raiz de sassafrás em 1 xícara de água por 5 minutos. Abafe por 10 minutos, coe e consuma no máximo 1 vez ao dia por curtos períodos.",
+    "bath_instructions": "• Banho de Transmutação, Renovação e Descarrego: Ferva 2 litros de água com 1 colher de sopa de sassafrás por 5 minutos. Abafe por 10 minutos, coe e aguarde ficar morno. Despeje do pescoço para baixo, visualizando uma luz azul transmutando dores físicas e amarguras emocionais em esperança e fluidez vital.",
+    "incense_usage": "• Defumação de Purificação Profunda e Renovação de Ambientes: Queime lascas de madeira ou cascas de sassafrás secas. A fumaça deliciosamente aromática e adocicada desintegra resíduos de energias densas, atraindo a frequência da saúde plena e do recomeço.",
+    "image_path": "/images/herbs/sassafras.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia dos Estados Unidos (USP) & Tratados de Etnobotânica Nativa Americana",
+    "benefits": [
+      "diuretico",
+      "dor",
+      "anti-inflamatorio",
+      "pele"
+    ],
+    "emotions": [
+      "cansaco",
+      "tristeza"
+    ],
+    "aliases": "Canela-Sassafrás, Sassafrás-do-Brasil",
+    "contraindications": "O óleo essencial contém safrol, substância hepatotóxica. Proibida a ingestão contínua ou em altas doses. Totalmente proibida na gravidez."
+  },
+  {
+    "name": "Sucuuba",
+    "scientific_name": "Himatanthus sucuuba",
+    "slug": "sucuuba",
+    "description": "A Sucuuba é uma árvore emblemática da Amazônia, famosa pelo seu látex e cascas com extraordinárias propriedades anti-inflamatórias, cicatrizantes, analgésicas e antissépticas. Na medicina tradicional, é altamente reverenciada para o tratamento de úlceras gástricas, inflamações uterinas, artrite, reumatismo e dores na coluna. Possui excelente ação na cicatrização de eczemas, feridas externas e picadas de insetos.",
+    "how_to_use": "• Decocção Cicatrizante e Anti-inflamatória: Ferva 1 colher de chá de cascas de sucuuba picadas em 1 xícara de água por 10 minutos. Coe e consuma 2 vezes ao dia.\n\n• Compressas Externas Anti-inflamatórias: Umedeça uma compressa limpa no chá de sucuuba concentrado e aplique morno sobre tecidos inflamados ou dores musculares profundas por 20 minutos.",
+    "bath_instructions": "• Banho de Restauração Física e Fortalecimento Estrutural: Ferva 2 litros de água com 3 colheres de sopa de casca de sucuuba por 8 minutos. Abafe por 10 minutos, coe e espere amornar. Derrame lentamente nos ombros e coluna, visualizando o alívio das inflamações e a regeneração de suas forças físicas estruturais.",
+    "incense_usage": "• Defumação de Fechamento de Corpo e Proteção: Queime cascas secas de sucuuba sobre carvão. A fumaça resinosa e firme atua blindando as portas e janelas do lar contra vibrações de baixa frequência ou ataques psíquicos direcionados.",
+    "image_path": "/images/herbs/sucuuba.png",
+    "source_type": "integrative",
+    "sources": "Farmacopeia Popular da Amazônia & Manual de Fitoterapia de Plantas da Flora Brasileira",
+    "benefits": [
+      "anti-inflamatorio",
+      "dor",
+      "cicatrizante",
+      "digestao",
+      "pele"
+    ],
+    "emotions": [
+      "estresse",
+      "cansaco"
+    ],
+    "aliases": "Janaguba, Sucuba, Raivosa",
+    "contraindications": "O látex deve ser diluído adequadamente antes do uso oral para evitar vômitos, náuseas e irritação gástrica severa. Contraindicado para gestantes."
+  },
+  {
+    "name": "Vassourinha",
+    "scientific_name": "Scoparia dulcis",
+    "slug": "vassourinha",
+    "description": "A Vassourinha é uma planta herbácea amplamente distribuída no Brasil, com reconhecidas propriedades expectorantes, antiespasmódicas, diuréticas e febrífugas. É muito empregada na medicina tradicional para tratar problemas respiratórios como asma, bronquite e tosses catarrais, pois ajuda a dilatar os brônquios e fluidificar as secreções. Também auxilia no reequilíbrio gástrico e na eliminação renal de toxinas.",
+    "how_to_use": "• Infusão Expectorante e Bronquial: Coloque 1 colher de sobremesa de folhas secas de vassourinha em 1 xícara de água fervente. Abafe por 10 minutos, coe e consuma morno, preferencialmente adoçado com mel para aliviar tosses.",
+    "bath_instructions": "• Banho de Limpeza Astral e Desobstrução Caminhos: Ferva 2 litros de água. Ao desligar, adicione 3 colheres de sopa de vassourinha. Abafe por 10 minutos, coe e espere amornar. Jogue do pescoço para baixo após o banho higiênico, mentalizando a 'varredura' de todas as energias intrusas e a abertura fluida dos seus caminhos.",
+    "incense_usage": "• Defumação de Varredura Espiritual e Banimento: Queime ramos secos de vassourinha sobre carvão. A fumaça densa e rústica atua como uma verdadeira vassoura espiritual, limpando a atmosfera do lar de ciúmes, fofocas e vibrações estagnadas.",
+    "image_path": "/images/herbs/vassourinha.png",
+    "source_type": "integrative",
+    "sources": "Formulário Fitoterápico Nacional do SUS & Monografia de Plantas Medicinais do Caribe e América Latina",
+    "benefits": [
+      "expectorante",
+      "respiratorio",
+      "diuretico",
+      "digestao",
+      "anti-inflamatorio"
+    ],
+    "emotions": [
+      "estresse",
+      "ansiedade"
+    ],
+    "aliases": "Vassourinha-de-Botão, Tupixaba",
+    "contraindications": "Evitar o uso por gestantes nas primeiras semanas de gravidez e por pessoas hipertensas sem acompanhamento."
+  },
+  {
+    "name": "Chá-Verde",
+    "scientific_name": "Camellia sinensis",
+    "slug": "cha-verde",
+    "description": "O Chá-Verde, derivado das folhas da Camellia sinensis, é mundialmente aclamado por seu poderoso teor de antioxidantes (especialmente as catequinas) e cafeína estimulante. Atua promovendo uma melhora espetacular no foco mental, na memória e na clareza de pensamentos, além de acelerar o metabolismo celular e auxiliar na perda de peso. Seus compostos também fortalecem o sistema imunológico, a saúde cardiovascular e atuam como protetores do envelhecimento celular precoce.",
+    "how_to_use": "• Infusão Antioxidante e Estimulante de Foco: Aqueça a água até começar a formar pequenas bolhas (cerca de 80°C), apague o fogo e adicione 1 colher de chá de folhas secas de chá-verde. Abafe por no máximo 3 minutos (para evitar o amargor excessivo), coe e consuma quente pela manhã ou no início da tarde.",
+    "bath_instructions": "• Banho de Rejuvenescimento, Foco e Renovação Celular: Ferva 2 litros de água. Ao desligar o fogo, acrescente 3 colheres de sopa de folhas secas de chá-verde e abafe por 10 minutos. Coe, deixe amornar e jogue sobre o corpo mentalizando a eliminação dos radicais livres físicos, ativação da sua mente e o despertar de uma nova energia vital e jovialidade plena.",
+    "incense_usage": "• Defumação de Purificação Intelectual e Clareza Psíquica: Queime folhas secas de chá-verde em brasa. A fumaça sutil e levemente herbácea clareia a mente de ruídos, favorece debates e estudos intelectuais, além de restaurar o padrão de energia positiva no ambiente de trabalho.",
+    "image_path": "/images/herbs/cha-verde.png",
+    "source_type": "integrative",
+    "sources": "Monografias de Plantas Medicinais da OMS & Farmacopeia Europeia",
+    "benefits": [
+      "energia",
+      "foco",
+      "memoria",
+      "imunidade",
+      "anti-inflamatorio",
+      "diuretico"
+    ],
+    "emotions": [
+      "cansaco",
+      "estresse"
+    ],
+    "aliases": "Chá-da-Índia, Camélia",
+    "contraindications": "Evitar o consumo excessivo à noite por conter cafeína (pode causar insônia). Contraindicado em caso de gastrite severa e arritmias cardíacas."
+  }
+]

@@ -1,0 +1,28 @@
+# Ignore deploy folder and ZIP files
+/deploy/
+*.zip
+
+# Backend ignores
+/backend/node_modules/
+/backend/vendor/
+/backend/.env
+/backend/.phpunit.result.cache
+/backend/storage/framework/cache/data/*
+/backend/storage/framework/sessions/*
+/backend/storage/framework/views/*
+/backend/storage/logs/*
+
+# Frontend ignores
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/build/
+/frontend/.env*
+/frontend/*.tsbuildinfo
+/frontend/next-env.d.ts
+
+# Misc
+.DS_Store
+*.pem
+Thumbs.db
+~$*.docx

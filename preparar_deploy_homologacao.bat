@@ -91,7 +91,7 @@ echo =======================================================
 echo DEPLOY DE HOMOLOGACAO PREPARADO COM SUCESSO!
 echo =======================================================
 echo Os arquivos estao organizados na pasta:
-94: echo   %DEPLOY_DIR%
+echo   %DEPLOY_DIR%
 echo.
 echo Envie os arquivos ZIP para a Hostinger:
 echo   - Envie 'deploy_homologacao\api_homologacao.zip' e extraia na pasta do subdominio api.receitadevovoem.com
